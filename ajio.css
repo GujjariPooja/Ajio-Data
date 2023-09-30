@@ -1,0 +1,442 @@
+body {
+    overflow-x: hidden !important;
+    margin: auto;
+    background-color: white;
+}
+
+.name {
+    text-align: center !important;
+    padding: 15px 34px;
+    color: white !important;
+    font-size: 25px !important;
+}
+
+.content {
+    min-height: 110px;
+    margin-bottom:0px ;
+    overflow-x: hidden !important;
+}
+
+.coll {
+    overflow-x: hidden !important;
+}
+
+.text {
+    border: 1px solid gray;
+    padding: 2px;
+    width:40%;
+    border-radius: 1%;
+    text-align: left;
+    left: 7%;
+    background-color: black;
+}
+
+.container {
+    background-color: black;
+}
+.search {
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    padding-left: 1%;
+    color: gray;
+}
+
+.context {
+    color: gray;
+}
+.cam {
+    float: right;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    color: gray;
+}
+.fonts {
+    font-size: 14px !important;
+}
+
+.font {
+    font-size: 14px !important;
+    margin-right: -24px !important;
+}
+
+.symbol {
+    float: left;
+}
+
+.statement {
+    border: 5px groove pink;
+    padding: 1%;
+    text-align: center;
+    background-color: rgb(188, 148, 184);
+    color: white;
+    font-size: 15px;
+}
+
+.component {
+    margin-top: 0.5%;
+    background-color: white;
+    /*border: 1px solid green;*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 360px;
+    width: 100%;
+ }
+
+.pic {
+    width: 100%;
+    height: 360px !important;
+}
+.delivery {
+    
+    border: 5px groove lightsteelblue;
+    padding: 0.5%;
+}
+#order {
+    color: palevioletred;
+    font-size: 18px;
+    font-style: italic;
+    font-family:inherit;
+    font-weight: bold;
+}
+
+.code {
+    display: flex;
+    margin-top: 1%;
+    width: 18%;
+    font-family: inherit;
+    font-size: 18px;
+    /*border: 1px solid orange;*/
+    border-radius: 20px;
+    padding-left: 1%;
+    padding-right: 1%;
+    background-color: palevioletred;
+    color: white;
+}
+
+.del {
+    float:right;
+    height: 63px;
+    margin-right: 5%;
+   
+}
+
+#hitstate{
+    border: 1px solid green;
+    height: 50px;
+}
+
+#hitstate img {
+    height: 50px;
+    width: 100%
+}
+.hit {
+    margin-top: 0%;
+}
+
+.wal {
+    height: 100px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+.wallet {
+    width: 100%;
+    height: 100px;
+   
+}
+
+ 
+.buttons {
+    bottom:-45px;
+}
+.buttons li {
+    background-color: pink;
+    border: 1px solid gray;
+}
+
+.brandss {
+    /*border: 1px solid gray;*/
+    height: 50px;
+}
+
+.brandss img {
+    height:50px;
+    width: 100%;
+}
+.fit {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.second {
+    height: 300px;
+    width: 100%;
+   
+}
+
+#first {
+    height: 350px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.second:hover {
+    transform: scale(0.9);
+}
+#second {
+    height: 350px;
+    padding-left: 0px;
+    padding-right: 0px;
+   
+}
+#third {
+    height: 350px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+#fourth {
+    height: 350px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+#fifth {
+    height: 350px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+#sixth {
+    height: 350px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+
+
+.offer {
+    /*border: 1px solid yellow;*/
+    height: 100px;
+    
+}
+.offerimg {
+    width: 100%;
+    height: 100px;
+}
+#popular {
+    color: orange;
+    font-size: 20px;
+}
+
+.brands {
+    border: 1px solid violet;
+    height: 400px;
+    margin-top: 0.5%;
+    background-color: lightgrey;
+    display: flex;
+}
+
+.row {
+    display: flex;
+}
+.brandimg {
+    border: 1px solid orange;
+    height: 310px;
+    margin-top: 10%;
+    margin-bottom: 4%;
+    margin-left: 30%;
+    margin-right: 1%;
+    width: 100%;
+    background-color: white;
+
+}
+
+.brandimages {
+    max-width:100%;
+    height: 250px;
+    
+}
+.brandimg h4{
+    margin-left: 5%;
+    color: darkcyan;
+}
+.brandimg p{
+    margin-left: 5%;
+}
+
+.arrival {
+    /*border:1px solid yellow;*/
+    height: 50px
+}
+.arrival img {
+    height: 50px;
+    width:100%
+
+}
+.last {
+    margin-top: 0%;
+}
+.foot {
+    margin-top: 4%;
+}
+.exchange {
+    height: 150px;
+    display: inline-block;
+    width: 32%
+}
+.iconsall {
+    height: 70px;
+    margin-left: 20%;
+   
+}
+.exchange span {
+    display: block;
+    margin-left: 12%;
+    margin-top: 2%;
+    width: 100%;
+}
+
+.cares {
+    /*border:1px solid yellow;*/
+    height: 100px;
+    width: 100%;
+   
+
+}
+.cares img {
+    height: 100px;
+    width:100%
+}
+
+@media screen and (max-width: 770px) {
+    .name {
+        height : 90px;
+    }
+    .text {
+        bottom: 320px;
+        width: 68%;
+        left: 12%;
+    }
+ }
+
+ @media screen and (max-width: 1220px){
+    .code {
+       width: 18%; 
+    }
+ }
+ @media screen and (max-width : 1214px) {
+    .code {
+        width : 20%;
+    }
+ }
+ @media screen and (max-width : 1170px) {
+    .code {
+        width : 20%;
+    }
+ }
+ @media screen and (max-width : 1012px) {
+    .code {
+        width : 25%;
+    }
+ }
+ @media screen and (max-width : 1084px) {
+    .code {
+        width : 22%;
+    }
+ }
+ @media screen and (max-width : 990px) {
+    .code {
+        width : 26%;
+    }
+ }
+ @media screen and (max-width : 830px) {
+    .code {
+        width : 28%;
+    }
+ }
+ @media screen and (max-width : 760px) {
+    .code {
+        width : 30%;
+    }
+ }
+ @media screen and (max-width : 720px) {
+    .code {
+        width : 32%;
+    }
+ }
+
+ @media screen and (max-width : 665px) {
+    .code {
+        width : 34%;
+    }
+ }
+ @media screen and (max-width : 622px) {
+    .code {
+        width : 40%;
+    }
+ }
+ @media screen and (max-width : 530px) {
+    .code {
+        width : 50%;
+    }
+ }
+ @media screen and (max-width : 784px) {
+    .del{
+        height: 58px; 
+    }
+ }
+ @media screen and (max-width : 528px) {
+    .del {
+        height:64px;
+    }
+ }
+
+ @media screen and (max-width : 817px) {
+    .font li a {
+        padding: 17px 9px;
+    }
+ }
+ @media screen and (max-width: 770px) {
+    .text {
+        bottom :355px;
+    }
+ }
+ @media screen and (max-width: 610px) {
+    .exchange span {
+       font-size: 13px;
+       margin-left: 5%;
+    }
+ }
+ @media screen and (max-width: 545px) {
+    .exchange span {
+       font-size: 13px;
+       margin-left: 0%;
+    }
+ }
+ @media screen and (max-width: 538px) {
+    .exchange span {
+       font-size: 12px;
+       margin-left: 0%;
+    }
+ }
+ @media screen and (max-width: 495px) {
+    .exchange span {
+       font-size: 11px;
+       margin-left: 0%;
+    }
+ }
+ @media screen and (max-width: 455px) {
+    .exchange span {
+       font-size: 10px;
+       margin-left: 0%;
+    }
+ }
+
+ 
+
+ 
+ 
+ 
+ 
