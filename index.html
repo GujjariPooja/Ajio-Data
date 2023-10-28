@@ -1,15 +1,16 @@
 <html>
     <head>
+        <title>
+            AJIO
+        </title>
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
         <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
-        <link rel="stylesheet" href="ajio.css">
         <link rel="icon" href="logo ajio.jpeg">
-        
+        <script src="https://kit.fontawesome.com/c4338603d0.js" crossorigin="anonymous"></script>
+        <link rel="stylesheet" href="ajio.css">
     </head>
-    <title>
-        AJIO
-    </title>
+
     <body>
         <nav class="navbar navbar-inverse content">
             <div class="container-fluid">
@@ -22,17 +23,13 @@
                     </button>
                     <a class="navbar-brand name"  href="#"> AJIO </a>
                 </div>
-                <div class="carousel-caption text">
-                    <span class="glyphicon glyphicon-search search"></span>
-                    <span class="context">Search by Product, Brand & more...</span>
-                    <span class="glyphicon glyphicon-camera cam"></span>
-                </div>
                 <div id="devNav" class="navbar-collapse collapse coll">
                 <ul class="nav navbar-nav fonts">
                     <li><a href="#">Women</a></li>
                     <li><a href="#">Men</a></li>
                     <li><a href="#">Kids</a></li>
                     <li><a href="#">Home & Living</a></li>
+                     
                 </ul>
                 <ul class="nav navbar-nav navbar-right font">
                     <li>
@@ -52,16 +49,31 @@
                     </li>
                 </ul>
                 </div>
+                <i class="fa-solid fa-location-dot weather" onClick = "geolocation()"></i>
+                <div class="search-container searchtext">
+                    <input type="text" placeholder="Search AJIO" class="search-input"/>
+                    <i class="fa-solid fa-magnifying-glass searchsym"></i>
+                    <i class="fa-thin fa-camera camerasym"></i>
+                </div>
                 
             </div>
         </nav> 
 
         <div class="statement">
+            <i class="fa-solid fa-moon" onClick = "changeMode()"></i>
             NEW: Put all your faves in wishlist and CREATE YOUR LOOK
         </div>
 
+        <p id ="out"></p>
+        <p id="weather"></p>
 
+        <div  id="coupon">
+            <img src="coupon.jpg" alt="coupon"/>
+            <button onClick = "closeCoupon()"> &times; </button> 
+        </div>
+    
         <div class="component">
+    
             <div id="devCarousel" class="carousel slide" data-ride="carousel">
                 <ol class="carousel-indicators">
                     <li data-target="#devCarousel" data-slide-to="0" class="active"></li>
@@ -105,7 +117,7 @@
         </div>
 
 
-        <div id="hitstate">
+        <div id="hitstate" class="hitstate">
             <img src="hit.webp" alt="hit"/>
         </div>
         <div class="component hit">
@@ -162,43 +174,43 @@
         </div>
 
         <div class="row fit">
-            <div id="first" class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
+            <div id="first" class="col-lg-2 col-md-3 col-sm-4 col-xs-6 ">
                 <img src="brand1.webp" alt="formal" class="second"/>
             </div>
-            <div id="second" class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
+            <div id="second" class="col-lg-2 col-md-3 col-sm-4 col-xs-6 ">
                 <img src="brand2.webp" alt="summer" class="second"/>
             </div>
-            <div id="third" class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
+            <div id="third" class="col-lg-2 col-md-3 col-sm-4 col-xs-6 ">
                 <img src="brand3.webp" alt="jewel" class="second"/>
             </div>
-            <div id="fourth" class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
+            <div id="fourth" class="col-lg-2 col-md-3 col-sm-4 col-xs-6 ">
                 <img src="brand4.jpg" alt="sandal" class="second"/>
             </div>
-            <div id="fifth" class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
+            <div id="fifth" class="col-lg-2 col-md-3 col-sm-4 col-xs-6 ">
                 <img src="brand5.jpg" alt="access" class="second"/>
             </div>
-            <div id="sixth" class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
+            <div id="sixth" class="col-lg-2 col-md-3 col-sm-4 col-xs-6 ">
                 <img src="brand6.jpg" alt="frag" class="second"/>
             </div>
         </div>
 
-        <div class="row fit">
-            <div id="first" class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
+        <div class="row fit pit">
+            <div id="first" class="col-lg-2 col-md-3 col-sm-4 col-xs-6 ">
                 <img src="brand7.webp" alt="formal" class="second"/>
             </div>
-            <div id="second" class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
+            <div id="second" class="col-lg-2 col-md-3 col-sm-4 col-xs-6 ">
                 <img src="brand8.webp" alt="summer" class="second"/>
             </div>
-            <div id="third" class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
+            <div id="third" class="col-lg-2 col-md-3 col-sm-4 col-xs-6 ">
                 <img src="brand10.jpg" alt="sandal" class="second"/>
             </div>
-            <div id="fourth" class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
+            <div id="fourth" class="col-lg-2 col-md-3 col-sm-4 col-xs-6 ">
                 <img src="brand11.webp" alt="access" class="second"/>
             </div>
-            <div id="fifth" class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
+            <div id="fifth" class="col-lg-2 col-md-3 col-sm-4 col-xs-6 ">
                 <img src="brand12.webp" alt="frag" class="second"/>
             </div>
-            <div id="sixth" class="col-lg-2 col-md-3 col-sm-4 col-xs-6">
+            <div id="sixth" class="col-lg-2 col-md-3 col-sm-4 col-xs-6 ">
                 <img src="brand13.webp" alt="frag" class="second"/>
             </div>
         </div>
@@ -280,5 +292,6 @@
     </div>
 </div>
 
+<script src="ajio.js"></script>
     </body>
 </html>

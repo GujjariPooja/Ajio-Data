@@ -71,7 +71,14 @@ body {
     text-align: center;
     background-color: rgb(188, 148, 184);
     color: white;
-    font-size: 15px;
+    font-size: 14px;
+}
+
+.statement  i {
+    color: gainsboro;
+    float: left;
+    font-size: 25px;
+    
 }
 
 .component {
@@ -82,6 +89,7 @@ body {
     background-size: cover;
     height: 360px;
     width: 100%;
+    z-index: 1;
  }
 
 .pic {
@@ -165,7 +173,7 @@ body {
     height:50px;
     width: 100%;
 }
-.fit {
+.row fit {
     margin-left: 0px;
     margin-right: 0px;
 }
@@ -423,7 +431,7 @@ body {
  }
  @media screen and (max-width: 495px) {
     .exchange span {
-       font-size: 11px;
+       font-size: 10px;
        margin-left: 0%;
     }
  }
@@ -435,8 +443,97 @@ body {
  }
 
  
+.mydark {
+    background-color: rgb(240 225 225);
+}
 
- 
+#coupon {
+    height : 300px;
+    width : 600px;
+    background-color: white;
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 28%;
+    margin-right: 28%;
+    z-index: 100;
+}
+
+@media screen and (max-width: 1141px) {
+    #coupon img{
+        margin-right: 28%;
+    }
+}
+
+#coupon button {
+    float: left;
+    margin-top : -50%;
+    position: absolute;
+}
+
+#coupon img {
+    height: 300px;
+    width: 600px;
+    display: block;
+}
+
+.search-container  {
+    position: relative;
+    margin-left: 9%;
+    margin-top: 1%;
+
+}
+
+.search-input {
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 100%;
+}
+
+.searchsym::before {
+    content: "\f002";
+    font-family: FontAwesome;
+    position: absolute;
+    left: 10px;
+    top: 30%;
+    transform: translateY(-50%);
+}
+
+.camerasym::after {
+    content: "\f030";
+    font-family: FontAwesome;
+    position: absolute;
+    right: 10px;
+    top: 30%;
+    transform: translateY(-50%);
+
+}
+
+.searchtext {
+    /*border: 1px solid orangered;*/
+    width: 35%;
+}
+
+@media screen and (max-width : 775px) {
+    .searchtext {
+        width: 50%;
+    }
+}
+
+.weather {
+    color: white;
+    float: left;
+    font-size: 20px;
+
+}
+
+.weathervisible {
+    display: none;
+}
+
+
+
+
+
  
  
  
