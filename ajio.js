@@ -38,7 +38,7 @@ const onloadPage = () => {
 
 
 
-    //setTimeout(closeCoupon, 3000);
+    setTimeout(closeCoupon, 3000);
     
 }
 
