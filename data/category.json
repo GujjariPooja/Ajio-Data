@@ -1,0 +1,163 @@
+[
+    {
+        "id": 1,
+        "category": "Men",
+        "subcategory": [
+            {
+                "name": "Brands",
+                "brand": ["Levis","U.S Polo Assn.","Nike","Adidas", "Puma", "Tommy Hilfiger"]
+            },
+            {
+                "name": "Topwear",
+                "brand": ["T-Shirts","Shirts","Sweatshirts","Jackets", "Sweaters", "Coots & Blazers"]
+            },
+            {
+                "name": "Bottom Wear",
+                "brand": ["Jeans & Joggers","Trousers and Pants","Shorts & 3/4Ths","Track Pants"]
+            },
+            {
+                "name": "Footwear",
+                "brand": ["Casual Shoes","Sport Shoes","Formal Shoes","Sneakers", "Sandals", "Flip Flops & Slippers", "Boots"]
+            },
+            {
+                "name": "Accessories",
+                "brand": ["Watches","Sunglasses & Frames","Caps & Hats"]
+            },
+            {
+                "name": "Ethnicwear",
+                "brand": ["Kurtas","Ethnic Sets","Sherwanis", "Ethnic Jackets"]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "category": "Women",
+        "subcategory": [
+            {
+                "name": "Brands",
+                "brand": ["Levis","Nike","Avaasa Mix N Match"]
+            },
+            {
+                "name": "Western Wear",
+                "brand": ["Dresses & Jumpsuits","Jeans and Jeggings","Tops,Tshirts & Shirts","Trousers & Treggings", "Track Pants", "Leggings", "Skirts", "Shorts", "Sweaters & Sweatshirts", "Jackets & Shrugs"]
+            },
+            {
+                "name": "Ethnic & Fusion Wear",
+                "brand": ["Kurtas","Kurta Suit Sets","Saree","Salwars & Churidars", "Shirts Tops & Tunics", "Lehanga Cholis", "Dress Material", "Blouses", "Dupattas", "Skirts And Ghagras"]
+            }, 
+            {
+                "name": "Foot Wear",
+                "brand": ["Heels","Flats","Sports Shoes","Casual Shoes", "Flip Flops & Slippers", "Sneakers", "Boots"]
+            },
+            {
+                "name": "Bags Wallet & Clutches",
+                "brand": ["Handbag","Wallet","Clutches"]
+            },
+            {
+                "name": "Jewellery",
+                "brand": ["Gold & Diamond Jewellery","Silver Jewellery","Fashion Jewellery"]
+            },
+            {
+                "name": "Other Accessories",
+                "brand": ["Watches","Sunglasses & Frames","Caps & Hats","Belts", "Luggage & Trolleys"]
+            },
+            {
+                "name": "Beauty & Personal Care",
+                "brand": ["Personal Care"]
+            }   
+        ]
+    },
+    {
+        "id": 3,
+        "category": "Kids",
+        "subcategory": [
+            {
+                "name": "Boys Clothing",
+                "brand": ["T-Shirts","Shirts","Jeans & Trousers","Shorts & Capris", "Ethnicwear", "Nightwear"]
+            },
+            {
+                "name": "Bags & Accesssories",
+                "brand": ["Bags & Bagpacks","Watches","Sunglasses & Frames","Sports Accessories & Equipment"]
+            },
+            {
+                "name": "Boys Footwear",
+                "brand": ["Casual Shoes","Sandals","Sports Shoes","Flip Flops"]
+            },
+            {
+                "name": "Girls Clothing",
+                "brand": ["Tops, T-Shirts & Shirts","Skirts & Shorts","Ethnicwear", "Nightwear"]
+            },
+            {
+                "name": "Girls Footwear",
+                "brand": ["Flats & Casual Shoes","Sports Shoes","Flip Flops"]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "category": "Jewellery",
+        "subcategory": [
+            {
+                "name": "Featured Brands",
+                "brand": ["Reliance Jewels","Malabar Gold & Diamonds","Giva"]
+            },
+            {
+                "name": "Men Fashion Jewellery",
+                "brand": ["Bracelets & Kadas","Chains","Earrings","Rings"]
+            },
+            {
+                "name": "Silver Jewellery",
+                "brand": ["Silver Articles","Silver Earrings","Silver Necklaces","Silver Bangles & Bracelets", "Silver Rings"]
+            },
+            {
+                "name": "Women Fashion Jewellery",
+                "brand": ["Bracelets & Bangles","Earrings","Hair Accessories","Necklaces & Pendants", "Rings"]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "category": "Home & Lifestyle",
+        "subcategory": [
+            {
+                "name": "Curtains & Accessories",
+                "brand": ["Window Curtains","Door Curtains"]
+            },
+            {
+                "name": "Cushions & Pillows",
+                "brand": ["Cushions","Pillows","Cushion Covers","Pillow Covers"]
+            },
+            {
+                "name": "Home Decor",
+                "brand": ["Wall Decor","Clocks","Photo Frames","Mirrors","Home Fragrances"]
+            },
+            {
+                "name": "Kitchen",
+                "brand": ["Kitchen Tools","Kitchen Aprons, Gloves & Towel","Kitchen Organisers"]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "category": "Beauty",
+        "subcategory": ["Make Up", "Fragrance", "Haircare"]
+    },
+    {
+        "id": 7,
+        "category": "Accessories",
+        "subcategory": [
+            {
+                "name": "Electronics",
+                "brand": ["Headphones","Earphones","Earpods","Speakers", "Smart Watches"]
+            },
+            {
+                "name": "Watches",
+                "brand": ["Wrist Watches","Smart Watches"]
+            },
+            {
+                "name": "Handbags",
+                "brand": ["Sling & Satchel Bags","Shoulder Bags","Backpacks","Clutches", "Wallets"]
+            }
+        ]
+    }
+]
