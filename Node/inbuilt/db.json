@@ -1,0 +1,1241 @@
+[
+    {
+        "id": 1,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Brands",
+        "brand": "Levis",
+        "image":,
+        "price": 299
+    },
+    {
+        "id": 2,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Brands",
+        "brand": "U.S Polo Assn.",
+        "image":,
+        "price": 299 
+    },
+    {
+        "id": 3,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Brands",
+        "brand": "Nike",
+        "image":,
+        "price":299
+    },
+    {
+        "id": 4,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Brands",
+        "brand": "Adidas",
+        "image":,
+        "price":299
+    },
+    {
+        "id": 5,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Brands",
+        "brand": "Puma",
+        "image":,
+        "price":299
+    },
+    {
+        "id": 6,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Brands",
+        "brand": "Tommy Hilfiger",
+        "image":,
+        "price":299
+    },
+    {
+        "id": 7,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Topwear",
+        "brand": "T-Shirts",
+        "image":,
+        "price":
+    },
+    {
+        "id": 8,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Topwear",
+        "brand": "Shirts",
+        "image":,
+        "price":
+    },
+    {
+        "id": 9,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Topwear",
+        "brand": "Sweatshirts",
+        "image":,
+        "price":
+    },
+    {
+        "id": 10,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Topwear",
+        "brand": "Jackets",
+        "image":,
+        "price":
+    },
+    {
+        "id": 11,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Topwear",
+        "brand": "Sweaters",
+        "image":,
+        "price":
+    },
+    {
+        "id": 12,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Topwear",
+        "brand": "Coots & Blazers",
+        "image":,
+        "price":
+    },
+    {
+        "id": 13,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Bottom Wear",
+        "brand": "Jeans & Joggers",
+        "image":,
+        "price":
+    },
+    {
+        "id": 14,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Bottom Wear",
+        "brand": "Trousers and Pants",
+        "image":,
+        "price":
+    },
+    {
+        "id": 15,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Bottom Wear",
+        "brand": "Shorts & 3/4Ths",
+        "image":,
+        "price":
+    },
+    {
+        "id": 16,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Bottom Wear",
+        "brand": "Track Pants",
+        "image":,
+        "price":
+    },
+    {
+        "id": 17,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Footwear",
+        "brand": "Casual Shoes",
+        "image":,
+        "price":
+    },
+    {
+        "id": 18,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Footwear",
+        "brand": "Sport Shoes",
+        "image":,
+        "price":
+    },
+    {
+        "id": 19,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Footwear",
+        "brand": "Formal Shoes",
+        "image":,
+        "price":
+    },
+    {
+        "id": 20,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Footwear",
+        "brand": "Sneakers",
+        "image":,
+        "price":
+    },
+    {
+        "id": 21,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Footwear",
+        "brand": "Sandals",
+        "image":,
+        "price":
+    },
+    {
+        "id": 22,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Footwear",
+        "brand": "Flip Flops & Slippers",
+        "image":,
+        "price":
+    },
+    {
+        "id": 23,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Footwear",
+        "brand": "Boots",
+        "image":,
+        "price":
+    },
+    {
+        "id": 24,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Accessories",
+        "brand": "Watches",
+        "image":,
+        "price":
+    },
+    {
+        "id": 25,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Accessories",
+        "brand": "Sunglasses & Frames",
+        "image":,
+        "price":
+    },
+    {
+        "id": 26,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Accessories",
+        "brand": "Caps & Hats",
+        "image":,
+        "price":
+    },
+    {
+        "id": 27,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Ethnicwear",
+        "brand": "Kurtas",
+        "image":,
+        "price":
+    },
+    {
+        "id": 28,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Ethnicwear",
+        "brand": "Ethnic Sets",
+        "image":,
+        "price":
+    },
+    {
+        "id": 29,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Ethnicwear",
+        "brand": "Sherwanis",
+        "image":,
+        "price":
+    },
+    {
+        "id": 30,
+        "name": "Men",
+        "category_id": 1,
+        "subcategory": "Ethnicwear",
+        "brand": "Ethnic Jackets",
+        "image":,
+        "price":
+    },
+    {
+        "id": 31,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Brands",
+        "brand": "Levis",
+        "image":,
+        "price":
+    },
+    {
+        "id": 32,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Brands",
+        "brand": "Nike",
+        "image":,
+        "price":
+    },
+    {
+        "id": 33,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Brands",
+        "brand": "Avaasa Mix N Match",
+        "image":,
+        "price":
+    },
+    {
+        "id": 34,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Western Wear",
+        "brand": "Dresses & Jumpsuits",
+        "image":,
+        "price":
+    },
+    {
+        "id": 35,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Western Wear",
+        "brand": "Jeans and Jeggings",
+        "image":,
+        "price":
+    },
+    {
+        "id": 36,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Western Wear",
+        "brand": "Tops, Tshirts & Shirts",
+        "image":,
+        "price":
+    },
+    {
+        "id": 37,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Western Wear",
+        "brand": "Trousers & Treggings",
+        "image":,
+        "price":
+    },
+    {
+        "id": 38,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Western Wear",
+        "brand": "Track Pants",
+        "image":,
+        "price":
+    },
+    {
+        "id": 39,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Western Wear",
+        "brand": "Leggings",
+        "image":,
+        "price":
+    },
+    {
+        "id": 40,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Western Wear",
+        "brand": "Skirts",
+        "image":,
+        "price":
+    },
+    {
+        "id": 41,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Western Wear",
+        "brand": "Shorts",
+        "image":,
+        "price":
+    },
+    {
+        "id": 42,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Western Wear",
+        "brand": "Sweaters & Sweatshirts",
+        "image":,
+        "price":
+    },
+    {
+        "id": 43,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Western Wear",
+        "brand": "Jackets & Shrugs",
+        "image":,
+        "price":
+    },
+    {
+        "id": 44,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Ethnic & Fusion Wear",
+        "brand": "Kurtas",
+        "image":,
+        "price":
+    },
+    {
+        "id": 45,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Ethnic & Fusion Wear",
+        "brand": "Kurta Suit Sets",
+        "image":,
+        "price":
+    },
+    {
+        "id": 46,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Ethnic & Fusion Wear",
+        "brand": "Saree",
+        "image":,
+        "price":
+    },
+    {
+        "id": 47,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Ethnic & Fusion Wear",
+        "brand": "Salwars & Churidars",
+        "image":,
+        "price":
+    },
+    {
+        "id": 48,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Ethnic & Fusion Wear",
+        "brand": "Shirts Tops & Tunics",
+        "image":,
+        "price":
+    },
+    {
+        "id": 49,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Ethnic & Fusion Wear",
+        "brand": "Lehanga Cholis",
+        "image":,
+        "price":
+    },
+    {
+        "id": 50,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Ethnic & Fusion Wear",
+        "brand": "Dress Material",
+        "image":,
+        "price":
+    },
+    {
+        "id": 51,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Ethnic & Fusion Wear",
+        "brand": "Blouses",
+        "image":,
+        "price":
+    },
+    {
+        "id": 52,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Ethnic & Fusion Wear",
+        "brand": "Dupattas",
+        "image":,
+        "price":
+    },
+    {
+        "id": 53,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Ethnic & Fusion Wear",
+        "brand": "Skirts And Ghagras",
+        "image":,
+        "price":
+    },
+    {
+        "id": 54,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Foot Wear",
+        "brand": "Heels",
+        "image":,
+        "price":
+    },
+    {
+        "id": 55,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Foot Wear",
+        "brand": "Flats",
+        "image":,
+        "price":
+    },
+    {
+        "id": 56,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Foot Wear",
+        "brand": "Sports Shoes",
+        "image":,
+        "price":
+    },
+    {
+        "id": 57,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Foot Wear",
+        "brand": "Casual Shoes",
+        "image":,
+        "price":
+    },
+    {
+        "id": 58,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Foot Wear",
+        "brand": "Flip Flops & Slippers",
+        "image":,
+        "price":
+    },
+    {
+        "id": 59,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Foot Wear",
+        "brand": "Sneakers",
+        "image":,
+        "price":
+    },
+    {
+        "id": 60,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Foot Wear",
+        "brand": "Boots",
+        "image":,
+        "price":
+    },
+    {
+        "id": 61,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Bags Wallet & Clutches",
+        "brand": "Handbag",
+        "image":,
+        "price":
+    },
+    {
+        "id": 62,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Bags Wallet & Clutches",
+        "brand": "Wallet",
+        "image":,
+        "price":
+    },
+    {
+        "id": 63,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Bags Wallet & Clutches",
+        "brand": "Clutches",
+        "image":,
+        "price":
+    },
+    {
+        "id": 64,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Jewellery",
+        "brand": "Gold & Diamond Jewellery",
+        "image":,
+        "price":
+    },
+    {
+        "id": 65,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Jewellery",
+        "brand": "Silver Jewellery",
+        "image":,
+        "price":
+    },
+    {
+        "id": 66,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Jewellery",
+        "brand": "Fashion Jewellery",
+        "image":,
+        "price":
+    },
+    {
+        "id": 67,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Other Accessories",
+        "brand": "Watches",
+        "image":,
+        "price":
+    },
+    {
+        "id": 68,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Other Accessories",
+        "brand": "Sunglasses & Frames",
+        "image":,
+        "price":
+    },
+    {
+        "id": 69,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Other Accessories",
+        "brand": "Caps & Hats",
+        "image":,
+        "price":
+    },
+    {
+        "id": 70,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Other Accessories",
+        "brand": "Belts",
+        "image":,
+        "price":
+    },
+    {
+        "id": 71,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Other Accessories",
+        "brand": "Luggage & Trolleys",
+        "image":,
+        "price":
+    },
+    {
+        "id": 72,
+        "name": "Women",
+        "category_id": 2,
+        "subcategory": "Beauty & Personal Care",
+        "brand": "Personal Care",
+        "image":,
+        "price":
+    },
+    {
+        "id": 73,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Boys Clothing",
+        "brand": "T-Shirts",
+        "image":,
+        "price":
+    },
+    {
+        "id": 74,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Boys Clothing",
+        "brand": "Shirts",
+        "image":,
+        "price":
+    },
+    {
+        "id": 75,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Boys Clothing",
+        "brand": "Jeans & Trousers",
+        "image":,
+        "price":
+    },
+    {
+        "id": 76,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Boys Clothing",
+        "brand": "Shorts & Capris",
+        "image":,
+        "price":
+    },
+    {
+        "id": 77,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Boys Clothing",
+        "brand": "Ethnicwear",
+        "image":,
+        "price":
+    },
+    {
+        "id": 78,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Boys Clothing",
+        "brand": "Nightwear",
+        "image":,
+        "price":
+    },
+    {
+        "id": 79,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Bags & Accesssories",
+        "brand": "Bags & Bagpacks",
+        "image":,
+        "price":
+    },
+    {
+        "id": 80,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Bags & Accesssories",
+        "brand": "Watches",
+        "image":,
+        "price":
+    },
+    {
+        "id": 81,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Bags & Accesssories",
+        "brand": "Sunglasses & Frames",
+        "image":,
+        "price":
+    },
+    {
+        "id": 82,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Bags & Accesssories",
+        "brand": "Sports Accessories & Equipment",
+        "image":,
+        "price":
+    },
+    {
+        "id": 83,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Boys Footwear",
+        "brand": "Casual Shoes",
+        "image":,
+        "price":
+    },
+    {
+        "id": 84,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Boys Footwear",
+        "brand": "Sandals",
+        "image":,
+        "price":
+    },
+    {
+        "id": 85,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Boys Footwear",
+        "brand": "Sports Shoes",
+        "image":,
+        "price":
+    },
+    {
+        "id": 86,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Boys Footwear",
+        "brand": "Flip Flops",
+        "image":,
+        "price":
+    },
+    {
+        "id": 87,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Girls Clothing",
+        "brand": "Tops, T-Shirts & Shirts",
+        "image":,
+        "price":
+    },
+    {
+        "id": 88,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Girls Clothing",
+        "brand": "Skirts & Shorts",
+        "image":,
+        "price":
+    },
+    {
+        "id": 89,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Girls Clothing",
+        "brand": "Ethnicwear",
+        "image":,
+        "price":
+    },
+    {
+        "id": 90,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Girls Clothing",
+        "brand": "Nightwear",
+        "image":,
+        "price":
+    },
+    {
+        "id": 91,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Girls Footwear",
+        "brand": "Flats & Casual Shoes",
+        "image":,
+        "price":
+    },
+    {
+        "id": 92,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Girls Footwear",
+        "brand": "Sports Shoes",
+        "image":,
+        "price":
+    },
+    {
+        "id": 93,
+        "name": "Kids",
+        "category_id": 3,
+        "subcategory": "Girls Footwear",
+        "brand": "Flip Flops",
+        "image":,
+        "price":
+    },
+    {
+        "id": 94,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Featured Brands",
+        "brand": "Reliance Jewels",
+        "image":,
+        "price":
+    },
+    {
+        "id": 95,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Featured Brands",
+        "brand": "Malabar Gold & Diamonds",
+        "image":,
+        "price":
+    },
+    {
+        "id": 96,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Featured Brands",
+        "brand": "Giva",
+        "image":,
+        "price":
+    },
+    {
+        "id": 97,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Men Fashion Jewellery",
+        "brand": "Bracelets & Kadas",
+        "image":,
+        "price":
+    },
+    {
+        "id": 98,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Men Fashion Jewellery",
+        "brand": "Chains",
+        "image":,
+        "price":
+    },
+    {
+        "id": 99,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Men Fashion Jewellery",
+        "brand": "Earrings",
+        "image":,
+        "price":
+    },
+    {
+        "id": 100,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Men Fashion Jewellery",
+        "brand": "Rings",
+        "image":,
+        "price":
+    },
+    {
+        "id": 101,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Silver Jewellery",
+        "brand": "Silver Articles",
+        "image":,
+        "price":
+    },
+    {
+        "id": 102,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Silver Jewellery",
+        "brand": "Silver Earrings",
+        "image":,
+        "price":
+    },
+    {
+        "id": 103,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Silver Jewellery",
+        "brand": "Silver Necklaces",
+        "image":,
+        "price":
+    },
+    {
+        "id": 104,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Silver Jewellery",
+        "brand": "Silver Bangles & Bracelets",
+        "image":,
+        "price":
+    },
+    {
+        "id": 105,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Silver Jewellery",
+        "brand": "Silver Rings",
+        "image":,
+        "price":
+    },
+    {
+        "id": 106,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Women Fashion Jewellery",
+        "brand": "Bracelets & Bangles",
+        "image":,
+        "price":
+    },
+    {
+        "id": 107,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Women Fashion Jewellery",
+        "brand": "Earrings",
+        "image":,
+        "price":
+    },
+    {
+        "id": 108,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Women Fashion Jewellery",
+        "brand": "Hair Accessories",
+        "image":,
+        "price":
+    },
+    {
+        "id": 109,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Women Fashion Jewellery",
+        "brand": "Necklaces & Pendants",
+        "image":,
+        "price":
+    },
+    {
+        "id": 110,
+        "name": "Jewellery",
+        "category_id": 4,
+        "subcategory": "Women Fashion Jewellery",
+        "brand": "Rings",
+        "image":,
+        "price":
+    },
+    {
+        "id": 111,
+        "name": "Home & Lifestyle",
+        "category_id": 5,
+        "subcategory": "Curtains & Accessories",
+        "brand": "Window Curtains",
+        "image":,
+        "price":
+    },
+    {
+        "id": 112,
+        "name": "Home & Lifestyle",
+        "category_id": 5,
+        "subcategory": "Curtains & Accessories",
+        "brand": "Door Curtains",
+        "image":,
+        "price":
+    },
+    {
+        "id": 113,
+        "name": "Home & Lifestyle",
+        "category_id": 5,
+        "subcategory": "Cushions & Pillows",
+        "brand": "Cushions",
+        "image":,
+        "price":
+    },
+    {
+        "id": 114,
+        "name": "Home & Lifestyle",
+        "category_id": 5,
+        "subcategory": "Cushions & Pillows",
+        "brand": "Pillows",
+        "image":,
+        "price":
+    },
+    {
+        "id": 115,
+        "name": "Home & Lifestyle",
+        "category_id": 5,
+        "subcategory": "Cushions & Pillows",
+        "brand": "Cushion Covers",
+        "image":,
+        "price":
+    },
+    {
+        "id": 116,
+        "name": "Home & Lifestyle",
+        "category_id": 5,
+        "subcategory": "Cushions & Pillows",
+        "brand": "Pillow Covers",
+        "image":,
+        "price":
+    },
+    {
+        "id": 117,
+        "name": "Home & Lifestyle",
+        "category_id": 5,
+        "subcategory": "Home Decor",
+        "brand": "Wall Decor",
+        "image":,
+        "price":
+    },
+    {
+        "id": 118,
+        "name": "Home & Lifestyle",
+        "category_id": 5,
+        "subcategory": "Home Decor",
+        "brand": "Clocks",
+        "image":,
+        "price":
+    },
+    {
+        "id": 119,
+        "name": "Home & Lifestyle",
+        "category_id": 5,
+        "subcategory": "Home Decor",
+        "brand": "Photo Frames",
+        "image":,
+        "price":
+    },
+    {
+        "id": 120,
+        "name": "Home & Lifestyle",
+        "category_id": 5,
+        "subcategory": "Home Decor",
+        "brand": "Mirrors",
+        "image":,
+        "price":
+    },
+    {
+        "id": 121,
+        "name": "Home & Lifestyle",
+        "category_id": 5,
+        "subcategory": "Home Decor",
+        "brand": "Home Fragrances",
+        "image":,
+        "price":
+    },
+    {
+        "id": 122,
+        "name": "Home & Lifestyle",
+        "category_id": 5,
+        "subcategory": "Kitchen",
+        "brand": "Kitchen Tools",
+        "image":,
+        "price":
+    },
+    {
+        "id": 123,
+        "name": "Home & Lifestyle",
+        "category_id": 5,
+        "subcategory": "Kitchen",
+        "brand": "Kitchen Aprons, Gloves & Towel",
+        "image":,
+        "price":
+    },
+    {
+        "id": 124,
+        "name": "Home & Lifestyle",
+        "category_id": 5,
+        "subcategory": "Kitchen",
+        "brand": "Kitchen Organisers",
+        "image":,
+        "price":
+    },
+    {
+        "id": 125,
+        "name": "Beauty",
+        "category_id": 6,
+        "subcategory": "Make Up",
+        "image":,
+        "price":
+    },
+    {
+        "id": 126,
+        "name": "Beauty",
+        "category_id": 6,
+        "subcategory": "Fragrance",
+        "image":,
+        "price":
+    },
+    {
+        "id": 127,
+        "name": "Beauty",
+        "category_id": 6,
+        "subcategory": "Haircare",
+        "image":,
+        "price":
+    },
+    {
+        "id": 128,
+        "name": "Accessories",
+        "category_id": 7,
+        "subcategory": "Electronics",
+        "brand": "Headphones",
+        "image":,
+        "price":
+    },
+    {
+        "id": 129,
+        "name": "Accessories",
+        "category_id": 7,
+        "subcategory": "Electronics",
+        "brand": "Earphones",
+        "image":,
+        "price":
+    },
+    {
+        "id": 130,
+        "name": "Accessories",
+        "category_id": 7,
+        "subcategory": "Electronics",
+        "brand": "Earpods",
+        "image":,
+        "price":
+    },
+    {
+        "id": 131,
+        "name": "Accessories",
+        "category_id": 7,
+        "subcategory": "Electronics",
+        "brand": "Speakers",
+        "image":,
+        "price":
+    },
+    {
+        "id": 132,
+        "name": "Accessories",
+        "category_id": 7,
+        "subcategory": "Electronics",
+        "brand": "Smart Watches",
+        "image":,
+        "price":
+    },
+    {
+        "id": 133,
+        "name": "Accessories",
+        "category_id": 7,
+        "subcategory": "Watches",
+        "brand": "Smart Watches",
+        "image":,
+        "price":
+    },
+    {
+        "id": 134,
+        "name": "Accessories",
+        "category_id": 7,
+        "subcategory": "Handbags",
+        "brand": "Sling & Satchel Bags",
+        "image":,
+        "price":
+    },
+    {
+        "id": 135,
+        "name": "Accessories",
+        "category_id": 7,
+        "subcategory": "Handbags",
+        "brand": "Shoulder Bags",
+        "image":,
+        "price":
+    },
+    {
+        "id": 136,
+        "name": "Accessories",
+        "category_id": 7,
+        "subcategory": "Handbags",
+        "brand": "Backpacks",
+        "image":,
+        "price":
+    },
+    {
+        "id": 137,
+        "name": "Accessories",
+        "category_id": 7,
+        "subcategory": "Handbags",
+        "brand": "Clutches",
+        "image":,
+        "price":
+    },
+    {
+        "id": 138,
+        "name": "Accessories",
+        "category_id": 7,
+        "subcategory": "Handbags",
+        "brand": "Wallets",
+        "image":,
+        "price":
+    },
+]
