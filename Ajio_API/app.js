@@ -1,6 +1,6 @@
 let express = require('express');
 let app = express();
-let port = 9120;
+let port = 9121;
 let Mongo = require('mongodb');
 let bodyParser = require('body-parser');
 let cors = require('cors');
@@ -16,15 +16,16 @@ app.get('/', (req,res) => {
 
 app.get('/men', async(req,res) => {
     let query ={};
-    if(req.query.categoryId) {
-        query = {"category_id": Number(req.query.stateId)}
-    }
     let collection = "men";
     let output = await getData(collection, query);
     res.send(output)
 });
+
 app.get('/men', async(req,res) => {
     let query ={};
+    if(req.query.categoryId) {
+        query = {"category_id": (req.query.categoryId)}
+    }
     let collection = "men";
     let output = await getData(collection, query);
     res.send(output)
@@ -32,6 +33,26 @@ app.get('/men', async(req,res) => {
 
 app.get('/women', async(req,res) => {
     let query ={};
+    let collection = "women";
+    let output = await getData(collection, query);
+    res.send(output)
+});
+
+app.get('/women', async(req,res) => {
+    let query ={};
+    if(req.query.categoryId) {
+        query = {"category_id": (req.query.categoryId)}
+    }
+    let collection = "women";
+    let output = await getData(collection, query);
+    res.send(output)
+});
+
+app.get('/women', async(req,res) => {
+    let query ={};
+    if(req.query.size) {
+        query = {"size":(req.query.size)}
+    }
     let collection = "women";
     let output = await getData(collection, query);
     res.send(output)
