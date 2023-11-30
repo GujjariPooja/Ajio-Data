@@ -1,6 +1,6 @@
 let express = require('express');
 let app = express();
-let port = 9121;
+let port = 3001;
 let Mongo = require('mongodb');
 let bodyParser = require('body-parser');
 let cors = require('cors');
@@ -21,10 +21,20 @@ app.get('/men', async(req,res) => {
     res.send(output)
 });
 
+// app.get('/men', async(req,res) => {
+//     let query ={};
+//     if(req.query.categoryId) {
+//         query = {"category_id": (req.query.categoryId)}
+//     }
+//     let collection = "men";
+//     let output = await getData(collection, query);
+//     res.send(output)
+// });
+
 app.get('/men', async(req,res) => {
-    let query ={};
-    if(req.query.categoryId) {
-        query = {"category_id": (req.query.categoryId)}
+    let query = {};
+    if(req.query.average_rating) {
+        query = {"average_rating": (req.query.average_rating)}
     }
     let collection = "men";
     let output = await getData(collection, query);
@@ -38,25 +48,25 @@ app.get('/women', async(req,res) => {
     res.send(output)
 });
 
-app.get('/women', async(req,res) => {
-    let query ={};
-    if(req.query.categoryId) {
-        query = {"category_id": (req.query.categoryId)}
-    }
-    let collection = "women";
-    let output = await getData(collection, query);
-    res.send(output)
-});
+// app.get('/women', async(req,res) => {
+//     let query ={};
+//     if(req.query.categoryId) {
+//         query = {"category_id": (req.query.categoryId)}
+//     }
+//     let collection = "women";
+//     let output = await getData(collection, query);
+//     res.send(output)
+// });
 
-app.get('/women', async(req,res) => {
-    let query ={};
-    if(req.query.size) {
-        query = {"size":(req.query.size)}
-    }
-    let collection = "women";
-    let output = await getData(collection, query);
-    res.send(output)
-});
+// app.get('/women', async(req,res) => {
+//     let query ={};
+//     if(req.query.size) {
+//         query = {"size":(req.query.size)}
+//     }
+//     let collection = "women";
+//     let output = await getData(collection, query);
+//     res.send(output)
+// });
 
 app.get('/kids', async(req,res) => {
     let query ={};
@@ -97,5 +107,5 @@ app.get('/Home&Lifestyle', async(req,res) => {
 app.listen (port,(err) => {
     dbConnect;
     if(err) throw err;
-    console.log('Server is running on port ${port}')
+    console.log('Server is running on port ${port}');
 })

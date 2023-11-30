@@ -6,7 +6,7 @@ let Client = new MongoClient (mongoUrl);
 async function dbConnect() {
     await Client.connect();
 }
-let db = Client.db('test');
+let db = Client.db('ajio');
 async function getData(colName, query) {
     let output = [];
     try {
