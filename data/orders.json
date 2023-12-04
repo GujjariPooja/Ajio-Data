@@ -1,0 +1,29 @@
+[
+    {
+        "orderId": 1,
+        "name": "Pooja",
+        "email": "pooja@gmail.com",
+        "address": "weavers colony",
+        "phone": 9390597665,
+        "cost": 3000,
+        "status": "On the way"
+    },
+    {
+        "orderId": 2,
+        "name": "Sreeja",
+        "email": "sreeja@gmail.com",
+        "address": "Housing board colony",
+        "phone": 9390597665,
+        "cost": 2000,
+        "status": "Pending"
+    },
+    {
+        "orderId": 3,
+        "name": "Teja",
+        "email": "teja@gmail.com",
+        "address": "Srinivasa colony",
+        "phone": 9390597665,
+        "cost": 3500,
+        "status": "Pending"
+    }
+]

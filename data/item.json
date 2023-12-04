@@ -6,9 +6,9 @@
         "subcategory": "Brands",
         "brand": "Levis",
         "image":"https://ibb.co/VHcxhkK",
-        "price": 3535,
+        "price": "3535",
         "size": "Small",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 2,
@@ -17,9 +17,9 @@
         "subcategory": "Brands",
         "brand": "U.S Polo Assn.",
         "image":"https://ibb.co/ZT8DxJ9",
-        "price": 4799,
+        "price": "4799",
         "size": "Small",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 3,
@@ -28,9 +28,9 @@
         "subcategory": "Brands",
         "brand": "Nike",
         "image":"https://ibb.co/8DKtqQm",
-        "price": 2535,
+        "price": "2535",
         "size": "Small",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 4,
@@ -39,9 +39,9 @@
         "subcategory": "Brands",
         "brand": "Adidas",
         "image":"https://ibb.co/YfY30p8",
-        "price":4599,
+        "price":"4599",
         "size": "Small",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 5,
@@ -50,9 +50,9 @@
         "subcategory": "Brands",
         "brand": "Puma",
         "image":"https://ibb.co/C8pyK7D",
-        "price":2100,
+        "price":"2100",
         "size": "Small",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 6,
@@ -61,9 +61,9 @@
         "subcategory": "Brands",
         "brand": "Tommy Hilfiger",
         "image":"https://ibb.co/DVWvNVn",
-        "price":4259,
+        "price":"4259",
         "size": "Small",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 7,
@@ -72,9 +72,9 @@
         "subcategory": "Topwear",
         "brand": "T-Shirts",
         "image":"https://ibb.co/CnNrL4c",
-        "price": 450,
+        "price": "450",
         "size": "Medium",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 8,
@@ -83,9 +83,9 @@
         "subcategory": "Topwear",
         "brand": "Shirts",
         "image":"https://ibb.co/hcjSPdy",
-        "price": 441,
+        "price": "441",
         "size": "Large",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 9,
@@ -94,9 +94,9 @@
         "subcategory": "Topwear",
         "brand": "Sweatshirts",
         "image":"https://ibb.co/7bYS3Xz",
-        "price":600,
+        "price":"600",
         "size": "Small",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 10,
@@ -105,9 +105,9 @@
         "subcategory": "Topwear",
         "brand": "Jackets",
         "image": "https://ibb.co/YNdhnP8",
-        "price": 1151,
+        "price": "1151",
         "size": "Medium",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 11,
@@ -116,9 +116,9 @@
         "subcategory": "Topwear",
         "brand": "Sweaters",
         "image":"https://ibb.co/F89Bysd",
-        "price": 750,
+        "price": "750",
         "size": "Medium",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 12,
@@ -127,9 +127,9 @@
         "subcategory": "Topwear",
         "brand": "Coots & Blazers",
         "image":"https://ibb.co/L0gTqXY",
-        "price": 1230,
+        "price": "1230",
         "size": "Medium",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 13,
@@ -138,9 +138,9 @@
         "subcategory": "Bottom Wear",
         "brand": "Jeans & Joggers",
         "image":"https://ibb.co/mS2yfT1",
-        "price": 360,
+        "price": "360",
         "size": "Medium",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 14,
@@ -149,9 +149,9 @@
         "subcategory": "Bottom Wear",
         "brand": "Trousers and Pants",
         "image":"https://ibb.co/FWgMHCY",
-        "price": 750,
+        "price": "750",
         "size": "Medium",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 15,
@@ -160,9 +160,9 @@
         "subcategory": "Bottom Wear",
         "brand": "Shorts & 3/4Ths",
         "image":"https://ibb.co/YR9K5BV",
-        "price": 419,
+        "price": "419",
         "size": "Small",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 16,
@@ -171,9 +171,9 @@
         "subcategory": "Bottom Wear",
         "brand": "Track Pants",
         "image":"https://ibb.co/nDDpyzt",
-        "price": 690,
+        "price": "690",
         "size": "Medium",
-        "average_rating": 1
+        "average_rating": "1"
     },
     {
         "id": 17,
@@ -182,9 +182,9 @@
         "subcategory": "Footwear",
         "brand": "Casual Shoes",
         "image":"https://ibb.co/Wn791k1",
-        "price":1089,
+        "price":"1089",
         "size": 6,
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 18,
@@ -193,9 +193,9 @@
         "subcategory": "Footwear",
         "brand": "Sport Shoes",
         "image":"https://ibb.co/NSMx3pV",
-        "price": 869,
+        "price": "869",
         "size": 7,
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 19,
@@ -204,9 +204,9 @@
         "subcategory": "Footwear",
         "brand": "Formal Shoes",
         "image":"https://ibb.co/HKWqG9L",
-        "price": 1051,
+        "price": "1051",
         "size": 8,
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 20,
@@ -215,9 +215,9 @@
         "subcategory": "Footwear",
         "brand": "Sneakers",
         "image":"https://ibb.co/kDCrNKb",
-        "price": 7379,
+        "price": "7379",
         "size": 6,
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 21,
@@ -226,9 +226,9 @@
         "subcategory": "Footwear",
         "brand": "Sandals",
         "image":"https://ibb.co/sQj6TMG",
-        "price": 864,
+        "price": "864",
         "size": 9,
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 22,
@@ -237,9 +237,9 @@
         "subcategory": "Footwear",
         "brand": "Flip Flops & Slippers",
         "image":"https://ibb.co/DMvYXt8",
-        "price": 863,
+        "price": "863",
         "size": 9,
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 23,
@@ -248,9 +248,9 @@
         "subcategory": "Footwear",
         "brand": "Boots",
         "image":"https://ibb.co/GM8NhLS",
-        "price": 5123,
+        "price": "5123",
         "size": 10,
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 24,
@@ -259,9 +259,9 @@
         "subcategory": "Accessories",
         "brand": "Watches",
         "image":"https://ibb.co/MMJfv9V",
-        "price": 1576,
+        "price": "1576",
         "size": "OS",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 25,
@@ -270,9 +270,9 @@
         "subcategory": "Accessories",
         "brand": "Sunglasses & Frames",
         "image":"https://ibb.co/fDZVLd3",
-        "price": 1590,
+        "price": "1590",
         "size": "OS",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 26,
@@ -281,9 +281,9 @@
         "subcategory": "Accessories",
         "brand": "Caps & Hats",
         "image":"https://ibb.co/hBqfgv5",
-        "price": 416,
+        "price": "416",
         "size": "OS",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 27,
@@ -292,9 +292,9 @@
         "subcategory": "Ethnicwear",
         "brand": "Kurtas",
         "image":"https://ibb.co/NCp34S4",
-        "price": 1560,
+        "price": "1560",
         "size": "Medium",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 28,
@@ -303,9 +303,9 @@
         "subcategory": "Ethnicwear",
         "brand": "Ethnic Sets",
         "image":"https://ibb.co/xhkj2T0",
-        "price": 1800,
+        "price": "1800",
         "size": "Medium",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 29,
@@ -314,9 +314,9 @@
         "subcategory": "Ethnicwear",
         "brand": "Sherwanis",
         "image":"https://ibb.co/5Fxj1Pc",
-        "price":6853,
+        "price":"6853",
         "size": "Small",
-        "average_rating": 1
+        "average_rating": "1"
     },
     {
         "id": 30,
@@ -325,9 +325,9 @@
         "subcategory": "Ethnicwear",
         "brand": "Ethnic Jackets",
         "image":"https://ibb.co/YXcGCmV",
-        "price": 4995,
+        "price": "4995",
         "size": "Small",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 31,
@@ -336,9 +336,9 @@
         "subcategory": "Brands",
         "brand": "Levis",
         "image":"https://ibb.co/xH2Mrv9",
-        "price":1160,
+        "price":"1160",
         "size": "Small",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 32,
@@ -347,9 +347,9 @@
         "subcategory": "Brands",
         "brand": "Nike",
         "image":"https://ibb.co/Syk0yCw",
-        "price":1901,
+        "price":"1901",
         "size": "Small",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 33,
@@ -358,9 +358,9 @@
         "subcategory": "Brands",
         "brand": "Avaasa Mix N Match",
         "image":"https://ibb.co/zNMwPFM",
-        "price":549,
+        "price":"549",
         "size": "Small",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 34,
@@ -369,9 +369,9 @@
         "subcategory": "Western Wear",
         "brand": "Dresses & Jumpsuits",
         "image":"https://ibb.co/FJnN8cv",
-        "price":560,
+        "price":"560",
         "size": "Medium",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 35,
@@ -380,9 +380,9 @@
         "subcategory": "Western Wear",
         "brand": "Jeans and Jeggings",
         "image":"https://ibb.co/5hRNH9T",
-        "price":812,
+        "price":"812",
         "size": "Small",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 36,
@@ -391,9 +391,9 @@
         "subcategory": "Western Wear",
         "brand": "Tops, Tshirts & Shirts",
         "image":"https://ibb.co/g6kB7W4",
-        "price":439,
+        "price":"439",
         "size": "Medium",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 37,
@@ -402,9 +402,9 @@
         "subcategory": "Western Wear",
         "brand": "Trousers & Treggings",
         "image":"https://ibb.co/FnXFqdC",
-        "price":360,
+        "price":"360",
         "size": "Small",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 38,
@@ -413,9 +413,9 @@
         "subcategory": "Western Wear",
         "brand": "Track Pants",
         "image":"https://ibb.co/NYTqrFy",
-        "price":540,
+        "price":"540",
         "size": "Large",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 39,
@@ -424,9 +424,9 @@
         "subcategory": "Western Wear",
         "brand": "Leggings",
         "image":"https://ibb.co/hZ9mCny",
-        "price":699,
+        "price":"699",
         "size": "Large",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 40,
@@ -435,9 +435,9 @@
         "subcategory": "Western Wear",
         "brand": "Skirts",
         "image":"https://ibb.co/MgmTh3R",
-        "price":512,
+        "price":"512",
         "size": 28,
-        "average_rating": 1
+        "average_rating": "1"
     },
     {
         "id": 41,
@@ -446,9 +446,9 @@
         "subcategory": "Western Wear",
         "brand": "Shorts",
         "image":"https://ibb.co/N6J3pYJ",
-        "price":390,
+        "price":"390",
         "size": 30,
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 42,
@@ -457,9 +457,9 @@
         "subcategory": "Western Wear",
         "brand": "Sweaters & Sweatshirts",
         "image":"https://ibb.co/JcDsLBD",
-        "price":698,
+        "price":"698",
         "size": "Small",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 43,
@@ -468,9 +468,9 @@
         "subcategory": "Western Wear",
         "brand": "Jackets & Shrugs",
         "image":"https://ibb.co/Yp8brFH",
-        "price":698,
+        "price":"698",
         "size": "Large",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 44,
@@ -479,9 +479,9 @@
         "subcategory": "Ethnic & Fusion Wear",
         "brand": "Kurtas",
         "image":"https://ibb.co/XpDVsnY",
-        "price":690,
+        "price":"690",
         "size": "XL",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 45,
@@ -490,9 +490,9 @@
         "subcategory": "Ethnic & Fusion Wear",
         "brand": "Kurta Suit Sets",
         "image":"https://ibb.co/Hnf3MHm",
-        "price":780,
+        "price":"780",
         "size": "XXL",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 46,
@@ -501,9 +501,9 @@
         "subcategory": "Ethnic & Fusion Wear",
         "brand": "Saree",
         "image":"https://ibb.co/x5v0978",
-        "price":840,
+        "price":"840",
         "size": "FS",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 47,
@@ -512,9 +512,9 @@
         "subcategory": "Ethnic & Fusion Wear",
         "brand": "Salwars & Churidars",
         "image":"https://ibb.co/Sy8F06r",
-        "price":200,
+        "price":"200",
         "size": "Medium",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 48,
@@ -523,9 +523,9 @@
         "subcategory": "Ethnic & Fusion Wear",
         "brand": "Shirts Tops & Tunics",
         "image":"https://ibb.co/sWYTWW9",
-        "price":330,
+        "price":"330",
         "size": "Small",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 49,
@@ -534,9 +534,9 @@
         "subcategory": "Ethnic & Fusion Wear",
         "brand": "Lehanga Cholis",
         "image":"https://ibb.co/Qpssw55",
-        "price":1154,
+        "price":"1154",
         "size": "FS",
-        "average_rating": 1
+        "average_rating": "1"
     },
     {
         "id": 50,
@@ -545,9 +545,9 @@
         "subcategory": "Ethnic & Fusion Wear",
         "brand": "Dress Material",
         "image":"https://ibb.co/wwd1Hpj",
-        "price":1841,
+        "price":"1841",
         "size": "FS",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 51,
@@ -556,9 +556,9 @@
         "subcategory": "Ethnic & Fusion Wear",
         "brand": "Blouses",
         "image":"https://ibb.co/1bDyb5W",
-        "price":2498,
+        "price":"2498",
         "size": "Small",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 52,
@@ -567,9 +567,9 @@
         "subcategory": "Ethnic & Fusion Wear",
         "brand": "Dupattas",
         "image":"https://ibb.co/z62gRVD",
-        "price":943,
+        "price":"943",
         "size": "FS",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 53,
@@ -578,9 +578,9 @@
         "subcategory": "Ethnic & Fusion Wear",
         "brand": "Skirts And Ghagras",
         "image":"https://ibb.co/hFM8fhf",
-        "price":320,
+        "price":"320",
         "size": "XL",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 54,
@@ -589,9 +589,9 @@
         "subcategory": "Foot Wear",
         "brand": "Heels",
         "image":"https://ibb.co/bgBT4R6",
-        "price":750,
-        "size": 8,
-        "average_rating": 5
+        "price":"750",
+        "size": "8",
+        "average_rating": "5"
     },
     {
         "id": 55,
@@ -600,9 +600,9 @@
         "subcategory": "Foot Wear",
         "brand": "Flats",
         "image":"https://ibb.co/JdHnVLZ",
-        "price":2396,
-        "size": 9,
-        "average_rating": 5
+        "price":"2396",
+        "size": "9",
+        "average_rating": "5"
     },
     {
         "id": 56,
@@ -611,9 +611,9 @@
         "subcategory": "Foot Wear",
         "brand": "Sports Shoes",
         "image":"https://ibb.co/R9GkZpN",
-        "price":2513,
-        "size": 6,
-        "average_rating": 3
+        "price":"2513",
+        "size": "6",
+        "average_rating": "3"
     },
     {
         "id": 57,
@@ -622,9 +622,9 @@
         "subcategory": "Foot Wear",
         "brand": "Casual Shoes",
         "image":"https://ibb.co/D7MFG9C",
-        "price":1890,
-        "size": 7,
-        "average_rating": 1
+        "price":"1890",
+        "size": "7",
+        "average_rating": "1"
     },
     {
         "id": 58,
@@ -633,9 +633,9 @@
         "subcategory": "Foot Wear",
         "brand": "Flip Flops & Slippers",
         "image":"https://ibb.co/mTKpjjD",
-        "price":1697,
-        "size": 6.5,
-        "average_rating": 1
+        "price":"1697",
+        "size": "6.5",
+        "average_rating": "1"
     },
     {
         "id": 59,
@@ -644,9 +644,9 @@
         "subcategory": "Foot Wear",
         "brand": "Sneakers",
         "image":"https://ibb.co/V37vp7T",
-        "price":1620,
-        "size": 7,
-        "average_rating": 2
+        "price":"1620",
+        "size": "7",
+        "average_rating": "2"
     },
     {
         "id": 60,
@@ -655,9 +655,9 @@
         "subcategory": "Foot Wear",
         "brand": "Boots",
         "image":"https://ibb.co/pxPKnG4",
-        "price":1320,
-        "size": 8,
-        "average_rating": 4
+        "price":"1320",
+        "size": "8",
+        "average_rating": "4"
     },
     {
         "id": 61,
@@ -666,9 +666,9 @@
         "subcategory": "Bags Wallet & Clutches",
         "brand": "Handbag",
         "image":"https://ibb.co/TwbP0Vv",
-        "price":3680,
+        "price":"3680",
         "size": "OS",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 62,
@@ -677,9 +677,9 @@
         "subcategory": "Bags Wallet & Clutches",
         "brand": "Wallet",
         "image":"https://ibb.co/tpJ9qcc",
-        "price":2050,
+        "price":"2050",
         "size": "OS",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 63,
@@ -688,9 +688,9 @@
         "subcategory": "Bags Wallet & Clutches",
         "brand": "Clutches",
         "image":"https://ibb.co/1qSZYXk",
-        "price":3349,
+        "price":"3349",
         "size": "FS",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 64,
@@ -699,9 +699,9 @@
         "subcategory": "Jewellery",
         "brand": "Gold & Diamond Jewellery",
         "image":"https://ibb.co/JmcgNxy",
-        "price":66062,
+        "price":"66062",
         "size": "10.0 gm",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 65,
@@ -710,9 +710,9 @@
         "subcategory": "Jewellery",
         "brand": "Silver Jewellery",
         "image":"https://ibb.co/Kqq5QWV",
-        "price":824,
+        "price":"824",
         "size": "FS",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 66,
@@ -721,9 +721,9 @@
         "subcategory": "Jewellery",
         "brand": "Fashion Jewellery",
         "image":"https://ibb.co/f8XWtGr",
-        "price":315,
+        "price":"315",
         "size": "OS",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 67,
@@ -732,9 +732,9 @@
         "subcategory": "Other Accessories",
         "brand": "Watches",
         "image":"https://ibb.co/gT991PQ",
-        "price":8979,
+        "price":"8979",
         "size": "FS",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 68,
@@ -743,9 +743,9 @@
         "subcategory": "Other Accessories",
         "brand": "Sunglasses & Frames",
         "image":"https://ibb.co/n8br6Zv",
-        "price":4844,
+        "price":"4844",
         "size": "OS",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 69,
@@ -754,9 +754,9 @@
         "subcategory": "Other Accessories",
         "brand": "Caps & Hats",
         "image":"https://ibb.co/xFctrYN",
-        "price":1649,
+        "price":"1649",
         "size": "OS",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 70,
@@ -765,9 +765,9 @@
         "subcategory": "Other Accessories",
         "brand": "Belts",
         "image":"https://ibb.co/fCcxmsq",
-        "price":3849,
+        "price":"3849",
         "size": 30,
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 71,
@@ -776,9 +776,9 @@
         "subcategory": "Other Accessories",
         "brand": "Luggage & Trolleys",
         "image":"https://ibb.co/hVM2LpY",
-        "price":2530,
+        "price":"2530",
         "size": "FS",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 72,
@@ -787,9 +787,9 @@
         "subcategory": "Beauty & Personal Care",
         "brand": "Personal Care",
         "image":"https://ibb.co/HGbpXT6",
-        "price":258,
+        "price":"258",
         "size": "400.0 ml",
-        "average_rating": 1
+        "average_rating": "1"
     },
     {
         "id": 73,
@@ -798,9 +798,9 @@
         "subcategory": "Boys Clothing",
         "brand": "T-Shirts",
         "image":"https://ibb.co/QHBW1t7",
-        "price":100,
+        "price":"100",
         "size": "3-4Y",
-        "average_rating": 5
+        "average_rating": "5"
 
     },
     {
@@ -810,9 +810,9 @@
         "subcategory": "Boys Clothing",
         "brand": "Shirts",
         "image":"https://ibb.co/x8q2rzk",
-        "price":384,
+        "price":"384",
         "size": "5-6Y",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 75,
@@ -821,9 +821,9 @@
         "subcategory": "Boys Clothing",
         "brand": "Jeans & Trousers",
         "image":"https://ibb.co/72RDN29",
-        "price":210,
+        "price":"210",
         "size": "9-10Y",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 76,
@@ -832,9 +832,9 @@
         "subcategory": "Boys Clothing",
         "brand": "Shorts & Capris",
         "image":"https://ibb.co/2hG2n29",
-        "price":150,
+        "price":"150",
         "size": "2-3Y",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 77,
@@ -843,9 +843,9 @@
         "subcategory": "Boys Clothing",
         "brand": "Ethnicwear",
         "image":"https://ibb.co/prD1kgc",
-        "price":1080,
+        "price":"1080",
         "size": "5-6Y",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 78,
@@ -854,9 +854,9 @@
         "subcategory": "Boys Clothing",
         "brand": "Nightwear",
         "image":"https://ibb.co/0hTKPMQ",
-        "price":1086,
+        "price":"1086",
         "size": "5-6Y",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 79,
@@ -865,9 +865,9 @@
         "subcategory": "Bags & Accesssories",
         "brand": "Bags & Bagpacks",
         "image":"https://ibb.co/qnhD9Zv",
-        "price":270,
+        "price":"270",
         "size": "OS",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 80,
@@ -876,9 +876,9 @@
         "subcategory": "Bags & Accesssories",
         "brand": "Watches",
         "image":"https://ibb.co/zJ26W84",
-        "price":348,
+        "price":"348",
         "size": "OS",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 81,
@@ -887,9 +887,9 @@
         "subcategory": "Bags & Accesssories",
         "brand": "Sunglasses & Frames",
         "image":"https://ibb.co/nLyJ4r5",
-        "price":501,
+        "price":"501",
         "size": "FS",
-        "average_rating": 1
+        "average_rating": "1"
     },
     {
         "id": 82,
@@ -898,9 +898,9 @@
         "subcategory": "Bags & Accesssories",
         "brand": "Sports Accessories & Equipment",
         "image":"https://ibb.co/GHn9P0j",
-        "price":450,
+        "price":"450",
         "size": "6-7Y",
-        "average_rating": 1
+        "average_rating": "1"
     },
     {
         "id": 83,
@@ -909,9 +909,9 @@
         "subcategory": "Boys Footwear",
         "brand": "Casual Shoes",
         "image":"https://ibb.co/BrZqX8k",
-        "price":540,
+        "price":"540",
         "size": "3-3.5Y",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 84,
@@ -920,9 +920,9 @@
         "subcategory": "Boys Footwear",
         "brand": "Sandals",
         "image":"https://ibb.co/qJm4Gh9",
-        "price":599,
+        "price":"599",
         "size": "3-3.5Y",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 85,
@@ -931,9 +931,9 @@
         "subcategory": "Boys Footwear",
         "brand": "Sports Shoes",
         "image":"https://ibb.co/ykWN8N2",
-        "price":1680,
+        "price":"1680",
         "size": "3-3.5Y",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 86,
@@ -942,9 +942,9 @@
         "subcategory": "Boys Footwear",
         "brand": "Flip Flops",
         "image":"https://ibb.co/HxLsGMp",
-        "price":1200,
+        "price":"1200",
         "size": "8-9Y",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 87,
@@ -953,9 +953,9 @@
         "subcategory": "Girls Clothing",
         "brand": "Tops, T-Shirts & Shirts",
         "image":"https://ibb.co/hCcL239",
-        "price":150,
+        "price":"150",
         "size": "3-3.5Y",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 88,
@@ -964,9 +964,9 @@
         "subcategory": "Girls Clothing",
         "brand": "Skirts & Shorts",
         "image":"https://ibb.co/8dnZmZk",
-        "price":384,
+        "price":"384",
         "size": "4-5.5Y",
-        "average_rating": 1
+        "average_rating": "1"
     },
     {
         "id": 89,
@@ -975,9 +975,9 @@
         "subcategory": "Girls Clothing",
         "brand": "Ethnicwear",
         "image":"https://ibb.co/6nhnYWp",
-        "price":1165,
+        "price":"1165",
         "size": "9-10Y",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 90,
@@ -986,9 +986,9 @@
         "subcategory": "Girls Clothing",
         "brand": "Nightwear",
         "image":"https://ibb.co/frySHqY",
-        "price":199,
+        "price":"199",
         "size": "3-3.5Y",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 91,
@@ -997,9 +997,9 @@
         "subcategory": "Girls Footwear",
         "brand": "Flats & Casual Shoes",
         "image":"https://ibb.co/xSZqLnk",
-        "price":1824,
+        "price":"1824",
         "size": "6Y",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 92,
@@ -1008,9 +1008,9 @@
         "subcategory": "Girls Footwear",
         "brand": "Sports Shoes",
         "image":"https://ibb.co/mXfD56x",
-        "price":720,
+        "price":"720",
         "size": "8Y",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 93,
@@ -1019,9 +1019,9 @@
         "subcategory": "Girls Footwear",
         "brand": "Flip Flops",
         "image":"https://ibb.co/CthPrqb",
-        "price":459,
+        "price":"459",
         "size": "10-11Y",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 94,
@@ -1030,9 +1030,9 @@
         "subcategory": "Featured Brands",
         "brand": "Reliance Jewels",
         "image":"https://ibb.co/k30c5Md",
-        "price":7108,
+        "price":"7108",
         "size": "1.0gm",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 95,
@@ -1041,9 +1041,9 @@
         "subcategory": "Featured Brands",
         "brand": "Malabar Gold & Diamonds",
         "image":"https://ibb.co/8Xjks1t",
-        "price":13489,
+        "price":"13489",
         "size": "2.0gm",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 96,
@@ -1052,9 +1052,9 @@
         "subcategory": "Featured Brands",
         "brand": "Giva",
         "image":"https://ibb.co/09HKMT0",
-        "price":6974,
+        "price":"6974",
         "size": "1.0gm",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 97,
@@ -1063,9 +1063,9 @@
         "subcategory": "Men Fashion Jewellery",
         "brand": "Bracelets & Kadas",
         "image":"https://ibb.co/pbydhFP",
-        "price":4724,
+        "price":"4724",
         "size": "OS",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 98,
@@ -1074,9 +1074,9 @@
         "subcategory": "Men Fashion Jewellery",
         "brand": "Chains",
         "image":"https://ibb.co/Jn750k8",
-        "price":370,
+        "price":"370",
         "size": "FS",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 99,
@@ -1085,9 +1085,9 @@
         "subcategory": "Men Fashion Jewellery",
         "brand": "Earrings",
         "image":"https://ibb.co/265N6Xk",
-        "price":239,
+        "price":"239",
         "size": "OS",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 100,
@@ -1096,9 +1096,9 @@
         "subcategory": "Men Fashion Jewellery",
         "brand": "Rings",
         "image":"https://ibb.co/dBpKknb",
-        "price":330,
+        "price":"330",
         "size": "OS",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 101,
@@ -1107,9 +1107,9 @@
         "subcategory": "Silver Jewellery",
         "brand": "Silver Articles",
         "image":"https://ibb.co/2Zg1vNh",
-        "price":1279,
+        "price":"1279",
         "size": "5.0gm",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 102,
@@ -1118,9 +1118,9 @@
         "subcategory": "Silver Jewellery",
         "brand": "Silver Earrings",
         "image":"https://ibb.co/MnfwdLr",
-        "price":628,
+        "price":"628",
         "size": "FS",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 103,
@@ -1129,9 +1129,9 @@
         "subcategory": "Silver Jewellery",
         "brand": "Silver Necklaces",
         "image":"https://ibb.co/Zhvcvbk",
-        "price":1382,
+        "price":"1382",
         "size": "3.55333gm",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 104,
@@ -1140,9 +1140,9 @@
         "subcategory": "Silver Jewellery",
         "brand": "Silver Bangles & Bracelets",
         "image":"https://ibb.co/pjqhKYj",
-        "price":1730,
+        "price":"1730",
         "size": "FS",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 105,
@@ -1151,9 +1151,9 @@
         "subcategory": "Silver Jewellery",
         "brand": "Silver Rings",
         "image":"https://ibb.co/gvrJZSP",
-        "price":863,
+        "price":"863",
         "size": "1.24gm",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 106,
@@ -1162,9 +1162,9 @@
         "subcategory": "Women Fashion Jewellery",
         "brand": "Bracelets & Bangles",
         "image":"https://ibb.co/qsLDWVv",
-        "price":420,
+        "price":"420",
         "size": "FS",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 107,
@@ -1173,9 +1173,9 @@
         "subcategory": "Women Fashion Jewellery",
         "brand": "Earrings",
         "image":"https://ibb.co/PFtp46c",
-        "price":2150,
+        "price":"2150",
         "size": "FS",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 108,
@@ -1184,9 +1184,9 @@
         "subcategory": "Women Fashion Jewellery",
         "brand": "Hair Accessories",
         "image":"https://ibb.co/N6tNM3Q",
-        "price":128,
+        "price":"128",
         "size": "OS",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 109,
@@ -1195,9 +1195,9 @@
         "subcategory": "Women Fashion Jewellery",
         "brand": "Necklaces & Pendants",
         "image":"https://ibb.co/sRYsp0L",
-        "price":479,
+        "price":"479",
         "size": "FS",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 110,
@@ -1206,9 +1206,9 @@
         "subcategory": "Women Fashion Jewellery",
         "brand": "Rings",
         "image":"https://ibb.co/zhp9Y7w",
-        "price":329,
+        "price":"329",
         "size": "FS",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 111,
@@ -1217,9 +1217,9 @@
         "subcategory": "Curtains & Accessories",
         "brand": "Window Curtains",
         "image":"https://ibb.co/2cR2zsC",
-        "price":760,
+        "price":"760",
         "size": "FS",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 112,
@@ -1228,9 +1228,9 @@
         "subcategory": "Curtains & Accessories",
         "brand": "Door Curtains",
         "image":"https://ibb.co/x1zY8zv",
-        "price":479,
+        "price":"479",
         "size": "FS",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 113,
@@ -1239,9 +1239,9 @@
         "subcategory": "Cushions & Pillows",
         "brand": "Cushions",
         "image":"https://ibb.co/LCYZ8hW",
-        "price":899,
+        "price":"899",
         "size": "OS",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 114,
@@ -1250,9 +1250,9 @@
         "subcategory": "Cushions & Pillows",
         "brand": "Pillows",
         "image":"https://ibb.co/v4m7kWn",
-        "price":690,
+        "price":"690",
         "size": "OS",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 115,
@@ -1261,9 +1261,9 @@
         "subcategory": "Cushions & Pillows",
         "brand": "Cushion Covers",
         "image":"https://ibb.co/PYtwY8K",
-        "price":435,
+        "price":"435",
         "size": "16X16IN",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 116,
@@ -1272,9 +1272,9 @@
         "subcategory": "Cushions & Pillows",
         "brand": "Pillow Covers",
         "image":"https://ibb.co/QQCkBNg",
-        "price":484,
+        "price":"484",
         "size": "FS",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 117,
@@ -1283,9 +1283,9 @@
         "subcategory": "Home Decor",
         "brand": "Wall Decor",
         "image":"https://ibb.co/g9KWGXW",
-        "price":1200,
+        "price":"1200",
         "size": "Small",
-        "average_rating": 1
+        "average_rating": "1"
     },
     {
         "id": 118,
@@ -1294,9 +1294,9 @@
         "subcategory": "Home Decor",
         "brand": "Clocks",
         "image":"https://ibb.co/FmM7CtK",
-        "price":909,
+        "price":"909",
         "size": "OS",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 119,
@@ -1305,9 +1305,9 @@
         "subcategory": "Home Decor",
         "brand": "Photo Frames",
         "image":"https://ibb.co/y42d7sz",
-        "price":740,
+        "price":"740",
         "size": "OS",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 120,
@@ -1316,9 +1316,9 @@
         "subcategory": "Home Decor",
         "brand": "Mirrors",
         "image":"https://ibb.co/MPySr04",
-        "price":199,
+        "price":"199",
         "size": "OS",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 121,
@@ -1327,9 +1327,9 @@
         "subcategory": "Home Decor",
         "brand": "Home Fragrances",
         "image":"https://ibb.co/dWQq57k",
-        "price":1091,
+        "price":"1091",
         "size": "OS",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 122,
@@ -1338,9 +1338,9 @@
         "subcategory": "Kitchen",
         "brand": "Kitchen Tools",
         "image":"https://ibb.co/K6LBGqy",
-        "price":2911,
+        "price":"2911",
         "size": "OS",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 123,
@@ -1349,9 +1349,9 @@
         "subcategory": "Kitchen",
         "brand": "Kitchen Aprons, Gloves & Towel",
         "image":"https://ibb.co/s5ZzrjJ",
-        "price":350,
+        "price":"350",
         "size": "FS",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 124,
@@ -1360,9 +1360,9 @@
         "subcategory": "Kitchen",
         "brand": "Kitchen Organisers",
         "image":"https://ibb.co/3mv2z99",
-        "price":2132,
+        "price":"2132",
         "size": "OS",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 125,
@@ -1370,9 +1370,9 @@
         "category_id": 6,
         "subcategory": "Make Up",
         "image":"https://ibb.co/QrBHCyZ",
-        "price":1079,
+        "price":"1079",
         "color":"Ultimate Nudes",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 126,
@@ -1380,9 +1380,9 @@
         "category_id": 6,
         "subcategory": "Fragrance",
         "image":"https://ibb.co/3FHRk2c",
-        "price":9800,
+        "price":"9800",
         "size": "80.0ml",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 127,
@@ -1390,9 +1390,9 @@
         "category_id": 6,
         "subcategory": "Haircare",
         "image":"https://ibb.co/WFWj97q",
-        "price":819,
+        "price":"819",
         "size": "13.0gm",
-        "average_rating": 4
+        "average_rating": "4"
     },
     {
         "id": 128,
@@ -1401,9 +1401,9 @@
         "subcategory": "Electronics",
         "brand": "Headphones",
         "image":"https://ibb.co/jbpVLDL",
-        "price":1139,
+        "price":"1139",
         "color": "Grey",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 129,
@@ -1412,9 +1412,9 @@
         "subcategory": "Electronics",
         "brand": "Earphones",
         "image":"https://ibb.co/kHXYv3X",
-        "price":324,
+        "price":"324",
         "size": "Black & Green",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 130,
@@ -1423,9 +1423,9 @@
         "subcategory": "Electronics",
         "brand": "Earpods",
         "image":"https://ibb.co/kh2m7yq",
-        "price":3779,
+        "price":"3779",
         "color": "Starry Blue",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 131,
@@ -1434,9 +1434,9 @@
         "subcategory": "Electronics",
         "brand": "Speakers",
         "image":"https://ibb.co/56VPwjc",
-        "price":1649,
+        "price":"1649",
         "size": "FS",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 132,
@@ -1445,9 +1445,9 @@
         "subcategory": "Electronics",
         "brand": "Smart Watches",
         "image":"https://ibb.co/tbPzbP3",
-        "price":6746,
+        "price":"6746",
         "color": "Black",
-        "average_rating": 1
+        "average_rating": "1"
     },
     {
         "id": 133,
@@ -1456,9 +1456,9 @@
         "subcategory": "Watches",
         "brand": "Wrist Watches",
         "image":"https://ibb.co/fq16dmS",
-        "price":1600,
+        "price":"1600",
         "color": "Blue",
-        "average_rating": 1
+        "average_rating": "1"
     },
     {
         "id": 134,
@@ -1467,9 +1467,9 @@
         "subcategory": "Handbags",
         "brand": "Sling & Satchel Bags",
         "image":"https://ibb.co/YNg3G99",
-        "price":4300,
+        "price":"4300",
         "color": "Black",
-        "average_rating": 5
+        "average_rating": "5"
     },
     {
         "id": 135,
@@ -1478,9 +1478,9 @@
         "subcategory": "Handbags",
         "brand": "Shoulder Bags",
         "image":"https://ibb.co/c335mDT",
-        "price":1083,
+        "price":"1083",
         "color": "Blue",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 136,
@@ -1489,9 +1489,9 @@
         "subcategory": "Handbags",
         "brand": "Backpacks",
         "image":"https://ibb.co/K5f6kCG",
-        "price":539,
+        "price":"539",
         "color": "Beige",
-        "average_rating": 2
+        "average_rating": "2"
     },
     {
         "id": 137,
@@ -1500,9 +1500,9 @@
         "subcategory": "Handbags",
         "brand": "Clutches",
         "image":"https://ibb.co/g90fL1b",
-        "price":460,
+        "price":"460",
         "color": "Black",
-        "average_rating": 3
+        "average_rating": "3"
     },
     {
         "id": 138,
@@ -1511,8 +1511,8 @@
         "subcategory": "Handbags",
         "brand": "Wallets",
         "image":"https://ibb.co/hYQVk1Z",
-        "price":538,
+        "price":"538",
         "color": "Black",
-        "average_rating": 4
+        "average_rating": "4"
     }
 ]
