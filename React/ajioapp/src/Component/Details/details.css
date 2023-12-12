@@ -1,0 +1,53 @@
+.main{
+    display: inline-block;
+    margin-left:5%;
+    width: 100%
+}
+
+.tileImage{
+    width:48%;
+    /* height: 100px; */
+    float: left;
+}
+
+.tileContent{
+    width:50%;
+    margin-left: -9%;
+    float: left;
+    margin-top: 4%;
+}
+
+.imageClass > img{
+    height: 350px;
+    width:70%;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+
+#cfeedback{
+    margin-left:3%;
+    color:green
+}
+
+.icons{
+    display: inline-block;
+    margin-left:2%
+}
+.icons >img{
+    width: 51px;
+    height:60px;
+}
+#stock{
+    font-size: 30px;
+    color:green
+}
+
+.button{
+    height:48px;
+    width:250px;
+    font-size:20px;
+}
+#Atoc{
+    background-color:green
+}

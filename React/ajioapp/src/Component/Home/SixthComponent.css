@@ -1,0 +1,38 @@
+.component {
+    margin-top: 0.5%;
+    background-color: white;
+    /*border: 1px solid green;*/
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 360px;
+    width: 100%;
+    z-index: 1;
+ }
+
+.pic {
+    width: 100%;
+    height: 360px !important;
+}
+
+.offer {
+    /*border: 1px solid yellow;*/
+    height: 100px;
+    
+}
+.offerimg {
+    width: 100%;
+    height: 100px;
+}
+
+.arrival {
+    /*border:1px solid yellow;*/
+    height: 50px
+}
+.arrival img {
+    height: 50px;
+    width:100%
+
+}
+.last {
+    margin-top: 0%;
+}

@@ -1,0 +1,105 @@
+.delivery {
+    
+    border: 5px groove lightsteelblue;
+    padding: 0.5%;
+}
+#order {
+    color: palevioletred;
+    font-size: 18px;
+    font-style: italic;
+    font-family:inherit;
+    font-weight: bold;
+}
+
+.code {
+    display: flex;
+    margin-top: 1%;
+    width: 18%;
+    font-family: inherit;
+    font-size: 18px;
+    /*border: 1px solid orange;*/
+    border-radius: 20px;
+    padding-left: 1%;
+    padding-right: 1%;
+    background-color: palevioletred;
+    color: white;
+}
+
+.del {
+    float:right;
+    height: 63px;
+    margin-right: 5%;
+   
+}
+
+@media screen and (max-width: 1220px){
+    .code {
+       width: 18%; 
+    }
+ }
+ @media screen and (max-width : 1214px) {
+    .code {
+        width : 20%;
+    }
+ }
+ @media screen and (max-width : 1170px) {
+    .code {
+        width : 20%;
+    }
+ }
+ @media screen and (max-width : 1012px) {
+    .code {
+        width : 25%;
+    }
+ }
+ @media screen and (max-width : 1084px) {
+    .code {
+        width : 22%;
+    }
+ }
+ @media screen and (max-width : 990px) {
+    .code {
+        width : 26%;
+    }
+ }
+ @media screen and (max-width : 830px) {
+    .code {
+        width : 28%;
+    }
+ }
+ @media screen and (max-width : 760px) {
+    .code {
+        width : 30%;
+    }
+ }
+ @media screen and (max-width : 720px) {
+    .code {
+        width : 32%;
+    }
+ }
+
+ @media screen and (max-width : 665px) {
+    .code {
+        width : 34%;
+    }
+ }
+ @media screen and (max-width : 622px) {
+    .code {
+        width : 40%;
+    }
+ }
+ @media screen and (max-width : 530px) {
+    .code {
+        width : 50%;
+    }
+ }
+ @media screen and (max-width : 784px) {
+    .del{
+        height: 58px; 
+    }
+ }
+ @media screen and (max-width : 528px) {
+    .del {
+        height:64px;
+    }
+ }

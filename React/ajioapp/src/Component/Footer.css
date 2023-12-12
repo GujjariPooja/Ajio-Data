@@ -1,0 +1,62 @@
+.foot {
+    margin-top: 4%;
+}
+.exchange {
+    height: 150px;
+    display: inline-block;
+    width: 32%
+}
+.iconsall {
+    height: 70px;
+    margin-left: 20%;
+   
+}
+.exchange span {
+    display: block;
+    margin-left: 12%;
+    margin-top: 2%;
+    width: 100%;
+}
+
+.cares {
+    /*border:1px solid yellow;*/
+    height: 100px;
+    width: 100%;
+   
+
+}
+.cares img {
+    height: 100px;
+    width:100%
+}
+
+@media screen and (max-width: 610px) {
+    .exchange span {
+       font-size: 13px;
+       margin-left: 5%;
+    }
+ }
+ @media screen and (max-width: 545px) {
+    .exchange span {
+       font-size: 13px;
+       margin-left: 0%;
+    }
+ }
+ @media screen and (max-width: 538px) {
+    .exchange span {
+       font-size: 12px;
+       margin-left: 0%;
+    }
+ }
+ @media screen and (max-width: 495px) {
+    .exchange span {
+       font-size: 10px;
+       margin-left: 0%;
+    }
+ }
+ @media screen and (max-width: 455px) {
+    .exchange span {
+       font-size: 10px;
+       margin-left: 0%;
+    }
+ }

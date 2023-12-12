@@ -1,0 +1,116 @@
+.brandss {
+    /*border: 1px solid gray;*/
+    height: 50px;
+}
+
+.brandss img {
+    height:50px;
+    width: 100%;
+}
+
+.row {
+    display: flex;
+}
+.row fit {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.second {
+    height: 300px;
+    width: 100%;
+   
+}
+
+#first {
+    height: 350px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.second:hover {
+    transform: scale(0.9);
+}
+#second {
+    height: 350px;
+    padding-left: 0px;
+    padding-right: 0px;
+   
+}
+#third {
+    height: 350px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+#fourth {
+    height: 350px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+#fifth {
+    height: 350px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+#sixth {
+    height: 350px;
+    padding-left: 0px;
+    padding-right: 0px;
+    
+}
+
+@media screen and (max-width: 1066px) {
+    .brandss {
+        margin-top: -9%;
+    }
+ }
+
+ @media screen and (max-width: 1021px) {
+    .brandss {
+        margin-top: -19%;
+    }
+ }
+
+ @media screen and (max-width: 958px) {
+    .brandss {
+        margin-top: -21%;
+    }
+ }
+
+ @media screen and (max-width: 885px) {
+    .brandss {
+        margin-top: -23%;
+    }
+ }
+
+ @media screen and (max-width: 785px) {
+    .brandss {
+        margin-top: -25%;
+    }
+ }
+
+ @media screen and (max-width: 711px) {
+    .brandss {
+        margin-top: -29%;
+    }
+ }
+
+ @media screen and (max-width: 638px) {
+    .brandss {
+        margin-top: -32%;
+    }
+ }
+
+ @media screen and (max-width: 566px) {
+    .brandss {
+        margin-top: -36%;
+    }
+ }
+
+ @media screen and (max-width: 527px) {
+    .brandss {
+        margin-top: -49%;
+    }
+ }
