@@ -95,6 +95,32 @@ app.get('/women', async(req,res) => {
     res.send(output)
 });
 
+app.get('/categoryId', async(req, res) => {
+    let query = {};
+    let collection = "Women";
+    if(req.query.category_id){
+        query = {"category_id": Number(req.query.category_id)}
+
+    }
+    let output = await getData(collection, query);
+    res.send(output)
+});
+app.get('/details/:id', async(req, res) => {
+    let id = Number(req.params.id);
+    let collection = "Women";
+    let query = {"id": id}
+    let output = await getData(collection, query);
+    res.send(output)
+});
+
+app.get('/Second/:id', async(req, res) => {
+    let id = Number(req.params.id);
+    let collection = "Women";
+    let query = {"id": id}
+    let output = await getData(collection, query);
+    res.send(output)
+});
+
 app.get('/user', async(req,res) => {
     let query = {};
     if(req.query.average_rating){
@@ -118,6 +144,27 @@ app.get('/size', async(req,res) => {
     }
     let output = await getData(collection, query);
     console.log(output);
+    res.send(output)
+});
+
+app.get('/Second', async(req,res) => {
+    let query = {};
+    let collection = "Women";
+    if(req.query.size){
+        query = {"size": (req.query.size)}
+        console.log(query);
+        console.log(req.query.size);
+    }
+    let output = await getData(collection, query);
+    console.log(output);
+    res.send(output)
+});
+
+app.get('/SecondPage/:size', async(req, res) => {
+    let size = (req.params.size);
+    let collection = "Women";
+    let query = {"size": size}
+    let output = await getData(collection, query);
     res.send(output)
 });
 

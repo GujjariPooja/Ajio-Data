@@ -33,7 +33,14 @@ http://localhost:3002/id?category_id=1&average_rating=3&price=2535
 
 //List of all women wrt size (GET)
 http://localhost:3002/size?size=FS
+http://localhost:3002/Second?size=S
 http://localhost:3002/sizes?size=8
+
+//List of women wrt id(GET)
+http://localhost:3002/details/32
+
+//List of women wrt category_id (GET)
+http://localhost:3002/categoryId?category_id=2
 
 //List of all kids wrt size (GET)
 http://localhost:3002/length?size=5-6Y
