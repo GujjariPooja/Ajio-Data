@@ -1,10 +1,71 @@
-import React  from 'react';
+import React, {useState, useEffect}  from 'react';
+import { useNavigate } from 'react-router-dom';
 import './Header.css';
 import {Link} from 'react-router-dom';
 
-// const apiUrl = process.env.REACT_APP_URL
+const url = process.env.REACT_APP_LOGIN_API_URL
+
 
 const Header = () => {
+
+    const [userData, setUserData] = useState('');
+    let navigate = useNavigate();
+
+    useEffect(() => {
+        if(sessionStorage.getItem('ltk') != null){
+            fetch(`${url}/userinfo`,{
+                method:'GET',
+                headers:{
+                    'x-access-token':sessionStorage.getItem('ltk')
+                }
+            })
+            .then((res) => res.json())
+            .then((data) => {
+                setUserData(data)
+            })
+        }
+    },[])
+
+    const handleLogout = () => {
+        sessionStorage.removeItem('ltk');
+        sessionStorage.removeItem('userInfo');
+        setUserData('');
+        navigate('/')
+    }
+
+
+    const conditionalHeader = () => {
+        if(userData){
+            if(userData.name){
+                sessionStorage.setItem('userInfo',JSON.stringify(userData))
+                    return (
+                        <>
+                        <Link to="/register" className='btn btn-primary'>
+                            <span className="glyphicon glyphicon-user"></span> {userData.name}
+                        </Link> &nbsp;
+                        <button onClick={handleLogout} className='btn btn-success'>
+                            <span className="glyphicon glyphicon-log-out"></span> Logout
+                        </button>
+                        </>
+                    )
+            }
+
+        }else{
+            return (
+                <>
+                <Link to="/register" className='btn btn-primary'>
+                    <span className="glyphicon glyphicon-user"></span> SignUp
+                </Link>&nbsp;
+                <Link to="/login" className='btn btn-success'>
+                    <span className="glyphicon glyphicon-log-in"></span> Login
+                </Link>
+                </>
+            )
+        }
+    }
+
+    
+
 //     const[women, setWomen] = useState([]);
 //     const[men, setMen] = useState([]);
 
@@ -87,6 +148,7 @@ const Header = () => {
                     <li><Link to="/FifthPage">Home & Living</Link></li>
                      
                 </ul>
+                
                 <ul className="nav navbar-nav navbar-right font">
                     <li>
                         <Link to="#">
@@ -104,6 +166,9 @@ const Header = () => {
                         </Link> 
                     </li>
                 </ul>
+                </div>
+                <div className="log">
+                {conditionalHeader()}
                 </div>
                 {/* <i className="fa-solid fa-location-dot weather" onClick = "geolocation()"></i> */}
                 <div className="search-container searchtext">

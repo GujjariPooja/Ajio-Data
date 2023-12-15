@@ -39,6 +39,9 @@ http://localhost:3002/sizes?size=8
 //List of women wrt id(GET)
 http://localhost:3002/details/32
 
+//List of men wrt id(GET)
+http://localhost:3002/Third/1
+
 //List of women wrt category_id (GET)
 http://localhost:3002/categoryId?category_id=2
 
@@ -85,3 +88,15 @@ http://localhost:3002/deleteOrder
 {
     "_id":"656da68334de28973b10648a"
 }
+
+//Register
+http://localhost:5001/api/auth/register
+
+//Get all Users
+http://localhost:5001/api/auth/users
+
+//Login
+http://localhost:5001/api/auth/login
+
+//UserInfo
+http://localhost:5001/api/auth/userInfo

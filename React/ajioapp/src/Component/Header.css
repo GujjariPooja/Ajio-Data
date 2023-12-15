@@ -157,3 +157,8 @@
 .weathervisible {
     display: none;
 }
+
+.log{
+    float: right ;
+
+}

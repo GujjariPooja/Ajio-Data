@@ -4,7 +4,7 @@ const app = express();
 const db = require('./db.js');
 const dotenv = require('dotenv');
 dotenv.config();
-const port = process.env.PORT || 5002;
+const port = process.env.PORT || 5001;
 const AuthController = require('./controller/authController')
 
 app.use(cors());

@@ -1,0 +1,39 @@
+{
+  "orders": [
+    {
+      "id": 280469,
+      "brand": "Levis",
+      "name": "Pooja",
+      "email": "pooja@gmail.com",
+      "price": 237,
+      "phone": 9390597665,
+      "address": "weavers colony"
+    },
+    {
+      "id": 794608,
+      "brand": "Levis",
+      "name": "Sreeja",
+      "email": "sreeja@gmail.com",
+      "price": 897,
+      "phone": 9390597665,
+      "address": "Housing board colony"
+    },
+    {
+      "id": 515151,
+      "brand": "Levis",
+      "name": "Teja",
+      "email": "teja@gmail.com",
+      "price": 418,
+      "phone": 9390597665,
+      "address": "weavers colony"
+    },
+    {
+      "id": 874576,
+      "price": 684,
+      "name": "Pooja",
+      "email": "pooja@gmail.com",
+      "phone": 9390597665,
+      "address": "weavers colony"
+    }
+  ]
+}

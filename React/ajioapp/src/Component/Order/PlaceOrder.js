@@ -1,23 +1,24 @@
 import React,{useState} from 'react';
-import {useNavigate} from 'react-router-dom';
-// import Header from '../Header';
+import {useParams, useNavigate} from 'react-router-dom';
+import Header from '../Header';
 
 const apiUrl = process.env.REACT_APP_POST_URL;
 
 const PlaceOrder = () => {
-    // let params = useParams();
+    let params = useParams();
     let navigate = useNavigate();
-
     
-// let sessionData = sessionStorage.getItem('userInfo');
-//     let data = JSON.parse(sessionData)
+    
+let sessionData = sessionStorage.getItem('userInfo');
+
+    let data = JSON.parse(sessionData)
     const initialValues = {
         id:Math.floor(Math.random() * 1000000),
-        brand: "Levis",
-        name:"Pooja",
-        email:"pooja@gmail.com",
+        brand:params.brand,
         price:Math.floor(Math.random()*1000),
-        phone:9390597665,
+        name:data.name,
+        email:data.email,
+        phone:data.phone,
         address:"weavers colony"
     }
 
@@ -46,11 +47,12 @@ const PlaceOrder = () => {
 
     return(
         <>
+            <Header/>
             <div className="container">
                 <hr/>
                 <div className="panel panel-primary">
                     <div className="panel-heading">
-                        <h3>Order For {values.brand}</h3>
+                        <h3>Orders For {params.brand} </h3>
                     </div>
                     <div className='panel-body'>
                         <div className="row">
@@ -92,4 +94,4 @@ const PlaceOrder = () => {
 }
 
 
-export default PlaceOrder
+export default PlaceOrder;

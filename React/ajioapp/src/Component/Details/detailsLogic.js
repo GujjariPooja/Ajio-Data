@@ -3,6 +3,7 @@ import {useSearchParams, useNavigate} from 'react-router-dom';
 import axios from 'axios';
 import './details.css';
 import { Link } from 'react-router-dom';
+import Header from '../Header';
 
 
 const apiUrl = process.env.REACT_APP_URL
@@ -71,6 +72,7 @@ const Details = ()=> {
  
 return (
     <>
+     <Header/>
     <div className="main">
         {renderDetails()}
     </div>

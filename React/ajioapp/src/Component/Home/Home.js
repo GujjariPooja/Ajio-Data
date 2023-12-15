@@ -6,9 +6,12 @@ import FourthComponent from './FourthComponent';
 import FifthComponent from './FifthComponent';
 import SixthComponent from './SixthComponent';
 import './Home.css';
+import Header from '../Header';
+
 const Home = () => {
     return(
         <>
+            <Header/>
             <FirstComponent/>
             <SecondComponent/>
             <ThirdComponent/>

@@ -3,6 +3,7 @@ import './Second.css';
 import { useParams } from 'react-router-dom';
 import axios from 'axios';
 import SecondDisplay from './SecondDisplay';
+import Header from '../Header';
 
 const apiUrl = process.env.REACT_APP_URL
 
@@ -76,6 +77,7 @@ const SecondPage =()=>{
     // }
     return (
         <>
+        <Header/>
         <div className="row">
             <div className="leftpart">
                 <img src="https://i.ibb.co/8jvqbj6/women-lgo.jpg" alt="women-lgo"/>
