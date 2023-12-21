@@ -121,6 +121,22 @@ app.get('/mendetails/:id', async(req, res) => {
     res.send(output)
 });
 
+app.get('/kidsdetails/:id', async(req, res) => {
+    let id = Number(req.params.id);
+    let collection = "Kids";
+    let query = {"id": id}
+    let output = await getData(collection, query);
+    res.send(output)
+});
+
+app.get('/homedetails/:id', async(req, res) => {
+    let id = Number(req.params.id);
+    let collection = "Home&Lifestyle";
+    let query = {"id": id}
+    let output = await getData(collection, query);
+    res.send(output)
+});
+
 app.get('/Second/:id', async(req, res) => {
     let id = Number(req.params.id);
     let collection = "Women";

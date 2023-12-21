@@ -16,7 +16,7 @@ const FifthDisplay =(props)=> {
                                 </div>
                                 <div className='col-md-7'>
                                     <div className='name_women'>
-                                        <Link to={`/details?id=${item.id}`}> 
+                                        <Link to={`/homedetails?id=${item.id}`}> 
                                             {item.brand}
                                         </Link>
                                     </div>

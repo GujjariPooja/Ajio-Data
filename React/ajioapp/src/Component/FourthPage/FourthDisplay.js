@@ -16,7 +16,7 @@ const FourthDisplay =(props)=> {
                                 </div>
                                 <div className='col-md-7'>
                                     <div className='name_women'>
-                                        <Link to={`/details?id=${item.id}`}> 
+                                        <Link to={`/kidsdetails?id=${item.id}`}> 
                                             {item.brand}
                                         </Link>
                                     </div>

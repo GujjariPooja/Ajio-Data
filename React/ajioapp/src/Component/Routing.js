@@ -12,6 +12,9 @@ import PlaceOrder from './Order/PlaceOrder';
 import ViewOrder  from './Order/viewOrder';
 import Login from './login/loginComponent';
 import Register from './login/registerComponent';
+import MenDetails from './MenDetails/detailsLogic';
+import KidsDetails from './KidsDetails/detailsLogic';
+import HomeDetails from './HomeDetails/detailsLogic';
 
 
 const Routing = () => {
@@ -30,6 +33,9 @@ const Routing = () => {
                             <Route path="viewOrder" element={<ViewOrder/>}/>
                             <Route path="login" element={<Login/>}/>
                             <Route path="register" element={<Register/>}/>
+                            <Route path="menDetails" element={<MenDetails/>}/>
+                            <Route path="kidsDetails" element={<KidsDetails/>}/>
+                            <Route path="homeDetails" element={<HomeDetails/>}/>
                         </Route>
                     </Routes>
                 <Footer/>

@@ -39,8 +39,14 @@ http://localhost:3002/sizes?size=8
 //List of women wrt id(GET)
 http://localhost:3002/details/32
 
+//List of kids wrt id(GET)
+http://localhost:3002/kidsdetails/81
+
 //List of men wrt id(GET)
-http://localhost:3002/Third/1
+http://localhost:3002/mendetails/1
+
+//List of Home&Lifestyle wrt id(GET)
+http://localhost:3002/homedetails/120
 
 //List of women wrt category_id (GET)
 http://localhost:3002/categoryId?category_id=2
